@@ -3,20 +3,6 @@
   <!-- Recuerda subir tu TTA LOGO.jpg al repo y actualizar la ruta si es necesario -->
   <img src="https://github.com/user-attachments/assets/ba7ca708-0f48-4d44-8042-65da4855a256" width="55%" alt="TTA Logo">
 
-  <h1>The Traveling Architect</h1>
-
-  <p>
-    <i>
-      "Data-driven route optimizer for curated architectural exploration."
-    </i>
-  </p>
-
-  <br>
-
-  <p>
-    Bridging the gap between structural thinking and computational analysis since 2026.
-  </p>
-
   <br>
 
   <img src="https://img.shields.io/badge/Architecture-Data--Driven-red?style=flat-square">
