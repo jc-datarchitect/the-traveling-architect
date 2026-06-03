@@ -58,7 +58,7 @@ Help me turn this from a curated list into the ultimate global atlas for the res
 2. **Open an Issue:** Did you find a masterpiece that's missing? Or perhaps a "Starchitect" whose entire body of work needs a monographic pack? Tell me about it!
 3. **Submit a Pull Request:** If you're feeling adventurous, fork the repo and add new landmarks, refine route optimizations, or help me expand the dataset. 
 
-Every contribution helps ensure that no more architects wander aimlessly through cities. 
+Every contribution helps ensure that no more architects wander aimlessly through cities.  
 Let’s map the world, one coordinate at a time.
 
 ---
