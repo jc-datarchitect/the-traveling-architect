@@ -55,6 +55,7 @@ the-traveling-architect/
 ├── tta_destinations.json   # Datasets of architectural landmarks
 ├── requirements.txt        # Dependency specifications
 └── README.md               # Project documentation
+```
 
 ---
 
