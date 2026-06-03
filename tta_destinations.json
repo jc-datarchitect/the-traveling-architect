@@ -1,0 +1,5692 @@
+[
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"New York",
+        "landmark":"Empire State Building",
+        "architect":"Shreve, Lamb & Harmon",
+        "latitude":40.74844,
+        "longitude":-73.985664,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"New York",
+        "landmark":"Flatiron Building",
+        "architect":"Daniel Burnham",
+        "latitude":40.741061,
+        "longitude":-73.989699,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"New York",
+        "landmark":"Chrysler Building",
+        "architect":"William Van Alen",
+        "latitude":40.751621,
+        "longitude":-73.975502,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"New York",
+        "landmark":"Rockefeller Center",
+        "architect":"Raymond Hood (et al.)",
+        "latitude":40.75874,
+        "longitude":-73.97867,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"New York",
+        "landmark":"High Line",
+        "architect":"Diller Scofidio + Renfro",
+        "latitude":40.74797,
+        "longitude":-74.00492,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"New York",
+        "landmark":"One World Trade Center",
+        "architect":"David Childs (SOM)",
+        "latitude":40.712743,
+        "longitude":-74.013379,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"New York",
+        "landmark":"9\/11 Memorial Pools",
+        "architect":"Michael Arad \/ Peter Walker",
+        "latitude":40.7114,
+        "longitude":-74.0125,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"New York",
+        "landmark":"8 Spruce St",
+        "architect":"Frank Gehry",
+        "latitude":40.7116,
+        "longitude":-74.0059,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"New York",
+        "landmark":"The Oculus",
+        "architect":"Santiago Calatrava",
+        "latitude":40.711,
+        "longitude":-74.0128,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"New York",
+        "landmark":"Statue of Liberty",
+        "architect":"Fr\u00e9d\u00e9ric Bartholdi \/ G. Eiffel",
+        "latitude":40.689247,
+        "longitude":-74.044502,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"New York",
+        "landmark":"Brooklyn Bridge",
+        "architect":"John Augustus Roebling",
+        "latitude":40.7061,
+        "longitude":-73.9969,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"New York",
+        "landmark":"Seagram Building",
+        "architect":"Mies van der Rohe",
+        "latitude":40.7584,
+        "longitude":-73.9745,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"New York",
+        "landmark":"Guggenheim Museum",
+        "architect":"Frank Lloyd Wright",
+        "latitude":40.782979,
+        "longitude":-73.95897,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"New York",
+        "landmark":"Glass House",
+        "architect":"Philip Johnson",
+        "latitude":41.1441,
+        "longitude":-73.535,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"New York",
+        "landmark":"Grace Farms",
+        "architect":"SANAA",
+        "latitude":41.1495,
+        "longitude":-73.5042,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"New York",
+        "landmark":"Grand Central Terminal",
+        "architect":"Reed and Stem \/ Fellheimer & Wagner",
+        "latitude":40.7527,
+        "longitude":-73.9772,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"New York",
+        "landmark":"Four Freedoms Park",
+        "architect":"Louis Kahn",
+        "latitude":40.74997,
+        "longitude":-73.9575,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"New York",
+        "landmark":"Little Island at Pier 55",
+        "architect":"Heatherwick Studio",
+        "latitude":40.74187,
+        "longitude":-74.00938,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"New York",
+        "landmark":"The Shed",
+        "architect":"Diller Scofidio + Renfro",
+        "latitude":40.7533,
+        "longitude":-74.0016,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"New York",
+        "landmark":"520 West 28th St",
+        "architect":"Zaha Hadid",
+        "latitude":40.74972,
+        "longitude":-74.00345,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"New York",
+        "landmark":"The Vessel",
+        "architect":"Heatherwick Studio",
+        "latitude":40.75344,
+        "longitude":-74.00185,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"New York",
+        "landmark":"56 Leonard St",
+        "architect":"Herzog & de Meuron",
+        "latitude":40.71738,
+        "longitude":-74.00552,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"New York",
+        "landmark":"Trinity Church (New York)",
+        "architect":"Richard Upjohn",
+        "latitude":40.7081,
+        "longitude":-74.0108,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"New York",
+        "landmark":"Fulton Center",
+        "architect":"Grimshaw Architects",
+        "latitude":40.711,
+        "longitude":-74.0075,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"New York",
+        "landmark":"Via 57 West",
+        "architect":"BIG (Bjarke Ingels Group)",
+        "latitude":40.7708,
+        "longitude":-73.9936,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"New York",
+        "landmark":"Lincoln Center",
+        "architect":"Harrison & Abramovitz",
+        "latitude":40.7724,
+        "longitude":-73.9835,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"New York",
+        "landmark":"Gilder Center",
+        "architect":"Studio Gang",
+        "latitude":40.7816,
+        "longitude":-73.9723,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"New York",
+        "landmark":"Lever House",
+        "architect":"Gordon Bunshaft (SOM)",
+        "latitude":40.7593,
+        "longitude":-73.9744,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"New York",
+        "landmark":"Whitney Museum",
+        "architect":"Renzo Piano",
+        "latitude":40.7397,
+        "longitude":-74.0084,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"New York",
+        "landmark":"Chelsey Market",
+        "architect":"Jamestown (Renovation)",
+        "latitude":40.742,
+        "longitude":-74.0048,
+        "priority":3
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"New York",
+        "landmark":"Jane's Carousel",
+        "architect":"Jean Nouvel (Pavilion)",
+        "latitude":40.7037,
+        "longitude":-73.9926,
+        "priority":3
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Boston",
+        "landmark":"MIT Chapel",
+        "architect":"Eero Saarinen",
+        "latitude":42.3591,
+        "longitude":-71.0924,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Boston",
+        "landmark":"Kresge Auditorium",
+        "architect":"Eero Saarinen",
+        "latitude":42.3598,
+        "longitude":-71.0926,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Boston",
+        "landmark":"Stata Center (MIT)",
+        "architect":"Frank Gehry",
+        "latitude":42.3615,
+        "longitude":-71.0917,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Boston",
+        "landmark":"Baker House (MIT)",
+        "architect":"Alvar Aalto",
+        "latitude":42.3575,
+        "longitude":-71.1006,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Boston",
+        "landmark":"ICA (Institute of Contemporary Art)",
+        "architect":"Diller Scofidio + Renfro",
+        "latitude":42.3524,
+        "longitude":-71.0449,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Boston",
+        "landmark":"Isabella Stewart Gardner Museum",
+        "architect":"Sears & Chapman",
+        "latitude":42.3396,
+        "longitude":-71.1003,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Boston",
+        "landmark":"Trinity Church (Boston)",
+        "architect":"H.H. Richardson",
+        "latitude":42.3512,
+        "longitude":-71.0768,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Boston",
+        "landmark":"Boston Public Library",
+        "architect":"McKim, Mead & White",
+        "latitude":42.3494,
+        "longitude":-71.0779,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Boston",
+        "landmark":"Carpenter Center (Harvard)",
+        "architect":"Le Corbusier",
+        "latitude":42.3748,
+        "longitude":-71.113,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Boston",
+        "landmark":"Novartis Institute",
+        "architect":"Maya Lin",
+        "latitude":42.3637,
+        "longitude":-71.1008,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Boston",
+        "landmark":"Faculty of Computing & Science (MIT)",
+        "architect":"SOM (Skidmore, Owings & Merrill)",
+        "latitude":42.3611,
+        "longitude":-71.0945,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Boston",
+        "landmark":"Omni Parker House",
+        "architect":"Fogler & Simpson",
+        "latitude":42.3579,
+        "longitude":-71.0602,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Boston",
+        "landmark":"Quincy Market",
+        "architect":"Alexander Parris",
+        "latitude":42.3595,
+        "longitude":-71.0553,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Boston",
+        "landmark":"Independence Wharf",
+        "architect":"Kallmann McKinnell & Wood",
+        "latitude":42.3533,
+        "longitude":-71.0478,
+        "priority":3
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Boston",
+        "landmark":"Acorn Street",
+        "architect":"Colonial (Historic)",
+        "latitude":42.357,
+        "longitude":-71.0705,
+        "priority":3
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Miami",
+        "landmark":"Ocean Drive (Art Deco District)",
+        "architect":"Various",
+        "latitude":25.782,
+        "longitude":-80.1305,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Miami",
+        "landmark":"Faena Forum",
+        "architect":"OMA (Rem Koolhaas)",
+        "latitude":25.8115,
+        "longitude":-80.1255,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Miami",
+        "landmark":"Freedom Tower",
+        "architect":"Schultze & Weaver",
+        "latitude":25.7805,
+        "longitude":-80.1885,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Miami",
+        "landmark":"Miami Tower",
+        "architect":"I.M. Pei",
+        "latitude":25.7735,
+        "longitude":-80.1915,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Miami",
+        "landmark":"Brickell City Centre",
+        "architect":"Arquitectonica",
+        "latitude":25.7675,
+        "longitude":-80.1915,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Miami",
+        "landmark":"One Thousand Museum",
+        "architect":"Zaha Hadid Architects",
+        "latitude":25.783,
+        "longitude":-80.1895,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Miami",
+        "landmark":"PAMM (P\u00e9rez Art Museum)",
+        "architect":"Herzog & de Meuron",
+        "latitude":25.784,
+        "longitude":-80.185,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Miami",
+        "landmark":"Grove at Grand Bay",
+        "architect":"BIG (Bjarke Ingels Group)",
+        "latitude":25.7285,
+        "longitude":-80.237,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Miami",
+        "landmark":"The Carlyle",
+        "architect":"Kiehnel and Elliott",
+        "latitude":25.7797,
+        "longitude":-80.1303,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Miami",
+        "landmark":"Casa Casuarina",
+        "architect":"Alden Freeman",
+        "latitude":25.7828,
+        "longitude":-80.13,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Miami",
+        "landmark":"Holocaust Memorial",
+        "architect":"Kenneth Treister",
+        "latitude":25.7895,
+        "longitude":-80.136,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Miami",
+        "landmark":"Beach House 8",
+        "architect":"Arquitectonica",
+        "latitude":25.802,
+        "longitude":-80.1265,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Miami",
+        "landmark":"Museum Garage",
+        "architect":"WORKac \/ J. Mayer H.",
+        "latitude":25.812,
+        "longitude":-80.1945,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Miami",
+        "landmark":"Adrienne Arsht Center",
+        "architect":"Cesar Pelli",
+        "latitude":25.7885,
+        "longitude":-80.1905,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Miami",
+        "landmark":"American Airlines Arena",
+        "architect":"Arquitectonica",
+        "latitude":25.7815,
+        "longitude":-80.187,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Miami",
+        "landmark":"500 Brickell",
+        "architect":"Arquitectonica",
+        "latitude":25.7645,
+        "longitude":-80.1905,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Miami",
+        "landmark":"Miami Convention Center",
+        "architect":"Various",
+        "latitude":25.79,
+        "longitude":-80.135,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Miami",
+        "landmark":"Miami City Ballet",
+        "architect":"Arquitectonica",
+        "latitude":25.8005,
+        "longitude":-80.133,
+        "priority":3
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Miami",
+        "landmark":"Wynwood Building",
+        "architect":"Tony Cho",
+        "latitude":25.803,
+        "longitude":-80.1985,
+        "priority":3
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Miami",
+        "landmark":"South Pointe Pier",
+        "architect":"Various",
+        "latitude":25.765,
+        "longitude":-80.133,
+        "priority":3
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Chicago",
+        "landmark":"Frank Lloyd Wright Home & Studio",
+        "architect":"Frank Lloyd Wright",
+        "latitude":41.8899,
+        "longitude":-87.8015,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Chicago",
+        "landmark":"Robie House",
+        "architect":"Frank Lloyd Wright",
+        "latitude":41.7905,
+        "longitude":-87.5966,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Chicago",
+        "landmark":"Unity Temple",
+        "architect":"Frank Lloyd Wright",
+        "latitude":41.886,
+        "longitude":-87.8,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Chicago",
+        "landmark":"Farnsworth House",
+        "architect":"Mies van der Rohe",
+        "latitude":41.6375,
+        "longitude":-88.5367,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Chicago",
+        "landmark":"Crown Hall",
+        "architect":"Mies van der Rohe",
+        "latitude":41.8344,
+        "longitude":-87.6263,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Chicago",
+        "landmark":"Federal Center",
+        "architect":"Mies van der Rohe",
+        "latitude":41.8785,
+        "longitude":-87.6293,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Chicago",
+        "landmark":"Lake Shore Drive Apts",
+        "architect":"Mies van der Rohe",
+        "latitude":41.895,
+        "longitude":-87.618,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Chicago",
+        "landmark":"Marina City",
+        "architect":"Bertrand Goldberg",
+        "latitude":41.8885,
+        "longitude":-87.6275,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Chicago",
+        "landmark":"Willis Tower",
+        "architect":"SOM (Bruce Graham\/Fazlur Khan)",
+        "latitude":41.8789,
+        "longitude":-87.6359,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Chicago",
+        "landmark":"Aqua Tower",
+        "architect":"Jeanne Gang (Studio Gang)",
+        "latitude":41.8856,
+        "longitude":-87.6217,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Chicago",
+        "landmark":"Jay Pritzker Pavilion",
+        "architect":"Frank Gehry",
+        "latitude":41.8827,
+        "longitude":-87.6225,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Chicago",
+        "landmark":"Baha'i House of Worship",
+        "architect":"Louis Bourgeois",
+        "latitude":42.0789,
+        "longitude":-87.6853,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Chicago",
+        "landmark":"River City",
+        "architect":"Bertrand Goldberg",
+        "latitude":41.8715,
+        "longitude":-87.6325,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Chicago",
+        "landmark":"St. Regis Chicago",
+        "architect":"Jeanne Gang (Studio Gang)",
+        "latitude":41.8868,
+        "longitude":-87.6173,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Chicago",
+        "landmark":"BP Bridge",
+        "architect":"Frank Gehry",
+        "latitude":41.8833,
+        "longitude":-87.621,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Chicago",
+        "landmark":"Lurie Garden",
+        "architect":"GGN \/ Piet Oudolf",
+        "latitude":41.8817,
+        "longitude":-87.6228,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Chicago",
+        "landmark":"McCormick Tribune CC",
+        "architect":"Rem Koolhaas (OMA)",
+        "latitude":41.8355,
+        "longitude":-87.627,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Chicago",
+        "landmark":"Joe & Rika Mansueto Library",
+        "architect":"Helmut Jahn",
+        "latitude":41.7925,
+        "longitude":-87.5995,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Chicago",
+        "landmark":"J.R. Thompson Center",
+        "architect":"Helmut Jahn",
+        "latitude":41.8845,
+        "longitude":-87.6295,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Chicago",
+        "landmark":"Lake Point Tower",
+        "architect":"Schipporeit & Heinrich",
+        "latitude":41.8906,
+        "longitude":-87.6133,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Chicago",
+        "landmark":"Chicago Architecture Center",
+        "architect":"Various",
+        "latitude":41.8878,
+        "longitude":-87.6248,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Chicago",
+        "landmark":"MCA (Museum of Contemp. Art)",
+        "architect":"Josef Paul Kleihues",
+        "latitude":41.897,
+        "longitude":-87.621,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Chicago",
+        "landmark":"Lincoln Park\/South Pond",
+        "architect":"Studio Gang",
+        "latitude":41.9215,
+        "longitude":-87.6355,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Chicago",
+        "landmark":"Cloud Gate",
+        "architect":"Anish Kapoor",
+        "latitude":41.8826,
+        "longitude":-87.6233,
+        "priority":3
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Chicago",
+        "landmark":"Navy Pier",
+        "architect":"Various",
+        "latitude":41.8917,
+        "longitude":-87.608,
+        "priority":3
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Chicago",
+        "landmark":"St. Peter Church",
+        "architect":"Various",
+        "latitude":41.8825,
+        "longitude":-87.632,
+        "priority":3
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Atlanta",
+        "landmark":"High Museum of Art",
+        "architect":"Richard Meier",
+        "latitude":33.79,
+        "longitude":-84.3855,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Atlanta",
+        "landmark":"Shri Swaminarayan Mandir",
+        "architect":"BAPS \/ Various",
+        "latitude":33.7995,
+        "longitude":-84.195,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Atlanta",
+        "landmark":"Georgia State Capitol",
+        "architect":"Edbrooke & Burnham",
+        "latitude":33.7489,
+        "longitude":-84.3879,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Atlanta",
+        "landmark":"Mercedes-Benz Stadium",
+        "architect":"HOK",
+        "latitude":33.7555,
+        "longitude":-84.4008,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Atlanta",
+        "landmark":"Center for Civil and Human Rights",
+        "architect":"Freelon Group",
+        "latitude":33.7628,
+        "longitude":-84.3938,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Atlanta",
+        "landmark":"Fox Theatre",
+        "architect":"Marye, Alger & Vinour",
+        "latitude":33.7718,
+        "longitude":-84.3828,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Atlanta",
+        "landmark":"Georgia Aquarium",
+        "architect":"Thompson, Ventulett, Stainback & Assoc.",
+        "latitude":33.7635,
+        "longitude":-84.3955,
+        "priority":3
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Atlanta",
+        "landmark":"Ponce City Market",
+        "architect":"Perkins+Will (Renovation)",
+        "latitude":33.7725,
+        "longitude":-84.3653,
+        "priority":3
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Pittsburgh",
+        "landmark":"Fallingwater",
+        "architect":"Frank Lloyd Wright",
+        "latitude":39.9061,
+        "longitude":-79.4679,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Pittsburgh",
+        "landmark":"Cathedral of Learning",
+        "architect":"Charles Klauder",
+        "latitude":40.4437,
+        "longitude":-79.9538,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Pittsburgh",
+        "landmark":"Allegheny County Courthouse",
+        "architect":"H.H. Richardson",
+        "latitude":40.4395,
+        "longitude":-79.9975,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Pittsburgh",
+        "landmark":"PPG Place",
+        "architect":"Philip Johnson",
+        "latitude":40.4392,
+        "longitude":-80.0025,
+        "priority":3
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Pittsburgh",
+        "landmark":"Phipps Conservatory",
+        "architect":"Lord & Burnham",
+        "latitude":40.4393,
+        "longitude":-79.9455,
+        "priority":3
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Los Angeles",
+        "landmark":"Stahl House",
+        "architect":"Pierre Koenig",
+        "latitude":34.1132,
+        "longitude":-118.3685,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Los Angeles",
+        "landmark":"Wayfarers Chapel",
+        "architect":"Lloyd Wright",
+        "latitude":33.7465,
+        "longitude":-118.3963,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Los Angeles",
+        "landmark":"Walt Disney Concert Hall",
+        "architect":"Frank Gehry",
+        "latitude":34.0553,
+        "longitude":-118.2499,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Los Angeles",
+        "landmark":"The Broad Museum",
+        "architect":"Diller Scofidio + Renfro",
+        "latitude":34.0545,
+        "longitude":-118.2505,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Los Angeles",
+        "landmark":"Griffith Observatory",
+        "architect":"John C. Austin",
+        "latitude":34.1184,
+        "longitude":-118.3004,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Los Angeles",
+        "landmark":"Cathedral of Our Lady of the Angels",
+        "architect":"Rafael Moneo",
+        "latitude":34.0573,
+        "longitude":-118.2476,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Los Angeles",
+        "landmark":"Eastern Columbia Building",
+        "architect":"Claud Beelman",
+        "latitude":34.0445,
+        "longitude":-118.2543,
+        "priority":3
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Seattle",
+        "landmark":"Seattle Central Library",
+        "architect":"OMA (Rem Koolhaas)",
+        "latitude":47.6067,
+        "longitude":-122.3325,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Seattle",
+        "landmark":"The Spheres",
+        "architect":"NBBJ",
+        "latitude":47.6152,
+        "longitude":-122.3385,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Seattle",
+        "landmark":"Space Needle",
+        "architect":"John Graham & Co.",
+        "latitude":47.6205,
+        "longitude":-122.3493,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Seattle",
+        "landmark":"Suzzallo Library",
+        "architect":"Bebb & Gould",
+        "latitude":47.6558,
+        "longitude":-122.308,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Seattle",
+        "landmark":"Rainier Tower",
+        "architect":"Minoru Yamasaki",
+        "latitude":47.6083,
+        "longitude":-122.3344,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Seattle",
+        "landmark":"Chihuly Garden",
+        "architect":"Various",
+        "latitude":47.6202,
+        "longitude":-122.3496,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Seattle",
+        "landmark":"MoPOP (Museum of Pop Culture)",
+        "architect":"Frank Gehry",
+        "latitude":47.6215,
+        "longitude":-122.3481,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Seattle",
+        "landmark":"Pacific Science Center",
+        "architect":"Minoru Yamasaki",
+        "latitude":47.6209,
+        "longitude":-122.3475,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Seattle",
+        "landmark":"Pike Place Market",
+        "architect":"Various",
+        "latitude":47.6086,
+        "longitude":-122.3403,
+        "priority":3
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Seattle",
+        "landmark":"Volunteer Park Conservatory",
+        "architect":"Lord & Burnham",
+        "latitude":47.63,
+        "longitude":-122.316,
+        "priority":3
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"San Francisco",
+        "landmark":"Golden Gate Bridge",
+        "architect":"Strauss \/ Ellis \/ Morrow",
+        "latitude":37.8199,
+        "longitude":-122.4783,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"San Francisco",
+        "landmark":"De Young Museum",
+        "architect":"Herzog & de Meuron",
+        "latitude":37.7715,
+        "longitude":-122.4687,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"San Francisco",
+        "landmark":"SFMOMA",
+        "architect":"Mario Botta \/ Snohetta",
+        "latitude":37.7857,
+        "longitude":-122.4011,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"San Francisco",
+        "landmark":"Transamerica Pyramid",
+        "architect":"William Pereira",
+        "latitude":37.7952,
+        "longitude":-122.4027,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"San Francisco",
+        "landmark":"Cathedral of St. Mary",
+        "architect":"P. Belluschi \/ P.L. Nervi",
+        "latitude":37.785,
+        "longitude":-122.4259,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"San Francisco",
+        "landmark":"Contemporary Jewish Museum",
+        "architect":"Daniel Libeskind",
+        "latitude":37.7851,
+        "longitude":-122.4022,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"San Francisco",
+        "landmark":"Palace of Fine Arts",
+        "architect":"Bernard Maybeck",
+        "latitude":37.8028,
+        "longitude":-122.4485,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"San Francisco",
+        "landmark":"Coit Tower",
+        "architect":"Arthur Brown Jr.",
+        "latitude":37.8024,
+        "longitude":-122.4058,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"San Francisco",
+        "landmark":"Painted Ladies (Alamo Sq)",
+        "architect":"Millard House",
+        "latitude":37.7763,
+        "longitude":-122.4328,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"San Francisco",
+        "landmark":"Japanese Tea Garden",
+        "architect":"Makoto Hagiwara",
+        "latitude":37.7705,
+        "longitude":-122.4705,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"San Francisco",
+        "landmark":"Sentinel Building",
+        "architect":"Shea & Shea",
+        "latitude":37.7967,
+        "longitude":-122.4042,
+        "priority":3
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"San Francisco",
+        "landmark":"Lombard Street",
+        "architect":"Various",
+        "latitude":37.8021,
+        "longitude":-122.4189,
+        "priority":3
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"San Francisco",
+        "landmark":"16th Ave Tiled Steps",
+        "architect":"Aileen Barr \/ Colette Crutcher",
+        "latitude":37.7533,
+        "longitude":-122.4772,
+        "priority":3
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Washington D.C.",
+        "landmark":"Lincoln Memorial",
+        "architect":"Henry Bacon",
+        "latitude":38.8893,
+        "longitude":-77.0502,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Washington D.C.",
+        "landmark":"Washington Monument",
+        "architect":"Robert Mills",
+        "latitude":38.8895,
+        "longitude":-77.0353,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Washington D.C.",
+        "landmark":"U.S. Capitol",
+        "architect":"William Thornton (et al.)",
+        "latitude":38.8899,
+        "longitude":-77.0091,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Washington D.C.",
+        "landmark":"White House",
+        "architect":"James Hoban",
+        "latitude":38.8977,
+        "longitude":-77.0365,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Washington D.C.",
+        "landmark":"Jefferson Memorial",
+        "architect":"John Russell Pope",
+        "latitude":38.8845,
+        "longitude":-77.0336,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Washington D.C.",
+        "landmark":"Museum of African-American History",
+        "architect":"David Adjaye",
+        "latitude":38.8911,
+        "longitude":-77.0325,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Washington D.C.",
+        "landmark":"Smithsonian American Art",
+        "architect":"Town & Davis",
+        "latitude":38.8973,
+        "longitude":-77.0235,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"United States",
+        "city":"Washington D.C.",
+        "landmark":"Union Station (Washington)",
+        "architect":"Daniel Burnham",
+        "latitude":38.8975,
+        "longitude":-77.0063,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"Canada",
+        "city":"Montreal",
+        "landmark":"Habitat 67",
+        "architect":"Moshe Safdie",
+        "latitude":45.4968,
+        "longitude":-73.5458,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"Canada",
+        "city":"Montreal",
+        "landmark":"Olympic Stadium (The Big O)",
+        "architect":"Roger Taillibert",
+        "latitude":45.5583,
+        "longitude":-73.5516,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"Canada",
+        "city":"Montreal",
+        "landmark":"Biosph\u00e8re",
+        "architect":"Buckminster Fuller",
+        "latitude":45.5115,
+        "longitude":-73.5305,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"Canada",
+        "city":"Montreal",
+        "landmark":"Basilique Notre-Dame (Montreal)",
+        "architect":"James O'Donnell",
+        "latitude":45.5049,
+        "longitude":-73.5562,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"Canada",
+        "city":"Montreal",
+        "landmark":"Place Ville Marie",
+        "architect":"I.M. Pei",
+        "latitude":45.5015,
+        "longitude":-73.5685,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"Canada",
+        "city":"Montreal",
+        "landmark":"Mus\u00e9e des beaux-arts (MBAM)",
+        "architect":"Moshe Safdie (Pavilion)",
+        "latitude":45.4982,
+        "longitude":-73.5794,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"Canada",
+        "city":"Toronto",
+        "landmark":"Royal Ontario Museum",
+        "architect":"Daniel Libeskind",
+        "latitude":43.6677,
+        "longitude":-79.3948,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"Canada",
+        "city":"Toronto",
+        "landmark":"Art Gallery of Ontario (AGO)",
+        "architect":"Frank Gehry",
+        "latitude":43.6536,
+        "longitude":-79.3925,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"Canada",
+        "city":"Toronto",
+        "landmark":"Toronto City Hall",
+        "architect":"Viljo Revell",
+        "latitude":43.6535,
+        "longitude":-79.384,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"Canada",
+        "city":"Toronto",
+        "landmark":"CN Tower",
+        "architect":"WZMH Architects",
+        "latitude":43.6426,
+        "longitude":-79.3871,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"Canada",
+        "city":"Toronto",
+        "landmark":"OCAD University (Sharp Centre)",
+        "architect":"Alsop Architects",
+        "latitude":43.651,
+        "longitude":-79.3888,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"Canada",
+        "city":"Toronto",
+        "landmark":"Toronto Dominion Centre",
+        "architect":"Mies van der Rohe",
+        "latitude":43.6475,
+        "longitude":-79.3797,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"Canada",
+        "city":"Toronto",
+        "landmark":"Brookfield Place",
+        "architect":"Santiago Calatrava",
+        "latitude":43.6465,
+        "longitude":-79.3775,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"Canada",
+        "city":"Toronto",
+        "landmark":"Aga Khan Museum",
+        "architect":"Fumihiko Maki",
+        "latitude":43.725,
+        "longitude":-79.3315,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"Canada",
+        "city":"Toronto",
+        "landmark":"Roy Thomson Hall",
+        "architect":"Arthur Erickson",
+        "latitude":43.6465,
+        "longitude":-79.386,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"Canada",
+        "city":"Toronto",
+        "landmark":"Gooderham Building",
+        "architect":"David Roberts Jr.",
+        "latitude":43.6485,
+        "longitude":-79.3755,
+        "priority":3
+    },
+    {
+        "continent":"North America",
+        "country":"Mexico",
+        "city":"Ciudad de Mexico",
+        "landmark":"Casa Luis Barrag\u00e1n",
+        "architect":"Luis Barrag\u00e1n",
+        "latitude":19.4143,
+        "longitude":-99.1912,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"Mexico",
+        "city":"Ciudad de Mexico",
+        "landmark":"Cuadra San Crist\u00f3bal",
+        "architect":"Luis Barrag\u00e1n",
+        "latitude":19.495,
+        "longitude":-99.278,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"Mexico",
+        "city":"Ciudad de Mexico",
+        "landmark":"Torres de Sat\u00e9lite",
+        "architect":"Luis Barrag\u00e1n \/ Goeritz",
+        "latitude":19.502,
+        "longitude":-99.2325,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"Mexico",
+        "city":"Ciudad de Mexico",
+        "landmark":"Restaurante Los Manantiales",
+        "architect":"F\u00e9lix Candela",
+        "latitude":19.544,
+        "longitude":-99.245,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"Mexico",
+        "city":"Ciudad de Mexico",
+        "landmark":"Museo Soumaya",
+        "architect":"Fernando Romero (FR-EE)",
+        "latitude":19.4402,
+        "longitude":-99.2036,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"Mexico",
+        "city":"Ciudad de Mexico",
+        "landmark":"Biblioteca Vasconcelos",
+        "architect":"Alberto Kalach",
+        "latitude":19.4526,
+        "longitude":-99.1517,
+        "priority":1
+    },
+    {
+        "continent":"North America",
+        "country":"Mexico",
+        "city":"Ciudad de Mexico",
+        "landmark":"Casa Gilardi",
+        "architect":"Luis Barrag\u00e1n",
+        "latitude":19.4125,
+        "longitude":-99.1936,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"Mexico",
+        "city":"Ciudad de Mexico",
+        "landmark":"Museo Nac. de Antropolog\u00eda",
+        "architect":"Pedro Ram\u00edrez V\u00e1zquez",
+        "latitude":19.426,
+        "longitude":-99.1862,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"Mexico",
+        "city":"Ciudad de Mexico",
+        "landmark":"Palacio de Bellas Artes",
+        "architect":"Boari \/ Mariscal",
+        "latitude":19.4355,
+        "longitude":-99.1412,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"Mexico",
+        "city":"Ciudad de Mexico",
+        "landmark":"Torre Reforma",
+        "architect":"L. Benjam\u00edn Romano",
+        "latitude":19.4239,
+        "longitude":-99.1764,
+        "priority":2
+    },
+    {
+        "continent":"North America",
+        "country":"Mexico",
+        "city":"Ciudad de Mexico",
+        "landmark":"Torre Latinoamericana",
+        "architect":"Augusto H. \u00c1lvarez",
+        "latitude":19.4344,
+        "longitude":-99.1414,
+        "priority":3
+    },
+    {
+        "continent":"North America",
+        "country":"Mexico",
+        "city":"Ciudad de Mexico",
+        "landmark":"Tlatelolco (Centro Cultural)",
+        "architect":"Mario Pani",
+        "latitude":19.4497,
+        "longitude":-99.1386,
+        "priority":3
+    },
+    {
+        "continent":"South America",
+        "country":"Brazil",
+        "city":"S\u00e3o Paulo",
+        "landmark":"MASP",
+        "architect":"Lina Bo Bardi",
+        "latitude":-23.5615,
+        "longitude":-46.656,
+        "priority":1
+    },
+    {
+        "continent":"South America",
+        "country":"Brazil",
+        "city":"S\u00e3o Paulo",
+        "landmark":"SESC Pomp\u00e9ia",
+        "architect":"Lina Bo Bardi",
+        "latitude":-23.5265,
+        "longitude":-46.6815,
+        "priority":1
+    },
+    {
+        "continent":"South America",
+        "country":"Brazil",
+        "city":"S\u00e3o Paulo",
+        "landmark":"Edif\u00edcio Copan",
+        "architect":"Oscar Niemeyer",
+        "latitude":-23.5463,
+        "longitude":-46.6423,
+        "priority":1
+    },
+    {
+        "continent":"South America",
+        "country":"Brazil",
+        "city":"S\u00e3o Paulo",
+        "landmark":"Casa de Vidro",
+        "architect":"Lina Bo Bardi",
+        "latitude":-23.6062,
+        "longitude":-46.7025,
+        "priority":1
+    },
+    {
+        "continent":"South America",
+        "country":"Brazil",
+        "city":"S\u00e3o Paulo",
+        "landmark":"Pinacoteca do Estado",
+        "architect":"Paulo Mendes da Rocha",
+        "latitude":-23.535,
+        "longitude":-46.6355,
+        "priority":1
+    },
+    {
+        "continent":"South America",
+        "country":"Brazil",
+        "city":"S\u00e3o Paulo",
+        "landmark":"Oca (Ibirapuera)",
+        "architect":"Oscar Niemeyer",
+        "latitude":-23.5855,
+        "longitude":-46.6612,
+        "priority":2
+    },
+    {
+        "continent":"South America",
+        "country":"Brazil",
+        "city":"S\u00e3o Paulo",
+        "landmark":"Edif\u00edcio It\u00e1lia",
+        "architect":"Franz Heep",
+        "latitude":-23.5465,
+        "longitude":-46.6415,
+        "priority":2
+    },
+    {
+        "continent":"South America",
+        "country":"Brazil",
+        "city":"Rio de Janeiro",
+        "landmark":"MAC Niter\u00f3i",
+        "architect":"Oscar Niemeyer",
+        "latitude":-22.9055,
+        "longitude":-43.1235,
+        "priority":1
+    },
+    {
+        "continent":"South America",
+        "country":"Brazil",
+        "city":"Rio de Janeiro",
+        "landmark":"MAM Rio",
+        "architect":"Affonso Eduardo Reidy",
+        "latitude":-22.9135,
+        "longitude":-43.1725,
+        "priority":1
+    },
+    {
+        "continent":"South America",
+        "country":"Brazil",
+        "city":"Rio de Janeiro",
+        "landmark":"Real Gabinete Portugu\u00eas de Leitura",
+        "architect":"Rafael da Silva e Castro",
+        "latitude":-22.9065,
+        "longitude":-43.1795,
+        "priority":1
+    },
+    {
+        "continent":"South America",
+        "country":"Brazil",
+        "city":"Rio de Janeiro",
+        "landmark":"MAR (Museo de Arte do Rio)",
+        "architect":"Bernardes + Jacobsen",
+        "latitude":-22.8985,
+        "longitude":-43.183,
+        "priority":1
+    },
+    {
+        "continent":"South America",
+        "country":"Brazil",
+        "city":"Rio de Janeiro",
+        "landmark":"Casa das Canoas",
+        "architect":"Oscar Niemeyer",
+        "latitude":-22.9975,
+        "longitude":-43.279,
+        "priority":1
+    },
+    {
+        "continent":"South America",
+        "country":"Brazil",
+        "city":"Rio de Janeiro",
+        "landmark":"Catedral Metropolitana",
+        "architect":"Edgar Fonseca",
+        "latitude":-22.909,
+        "longitude":-43.181,
+        "priority":1
+    },
+    {
+        "continent":"South America",
+        "country":"Brazil",
+        "city":"Rio de Janeiro",
+        "landmark":"MIS (Museu da Imagem e do Som)",
+        "architect":"Diller Scofidio + Renfro",
+        "latitude":-22.981,
+        "longitude":-43.1905,
+        "priority":2
+    },
+    {
+        "continent":"South America",
+        "country":"Brazil",
+        "city":"Rio de Janeiro",
+        "landmark":"Sede del Banco Boavista",
+        "architect":"Oscar Niemeyer",
+        "latitude":-22.9035,
+        "longitude":-43.176,
+        "priority":2
+    },
+    {
+        "continent":"South America",
+        "country":"Brazil",
+        "city":"Rio de Janeiro",
+        "landmark":"Confeitaria Colombo",
+        "architect":"Bethencourt \/ Tampo",
+        "latitude":-22.9055,
+        "longitude":-43.1765,
+        "priority":2
+    },
+    {
+        "continent":"South America",
+        "country":"Brazil",
+        "city":"Rio de Janeiro",
+        "landmark":"Acueducto Carioca",
+        "architect":"Various",
+        "latitude":-22.913,
+        "longitude":-43.1825,
+        "priority":3
+    },
+    {
+        "continent":"South America",
+        "country":"Brazil",
+        "city":"Rio de Janeiro",
+        "landmark":"Biblioteca Nacional",
+        "architect":"Various",
+        "latitude":-22.9085,
+        "longitude":-43.174,
+        "priority":3
+    },
+    {
+        "continent":"South America",
+        "country":"Brazil",
+        "city":"Rio de Janeiro",
+        "landmark":"Escadaria Selar\u00f3n",
+        "architect":"Jorge Selar\u00f3n",
+        "latitude":-22.9155,
+        "longitude":-43.1815,
+        "priority":3
+    },
+    {
+        "continent":"South America",
+        "country":"Brazil",
+        "city":"Brasilia",
+        "landmark":"Catedral Metropolitana",
+        "architect":"Oscar Niemeyer",
+        "latitude":-15.7981,
+        "longitude":-47.8763,
+        "priority":1
+    },
+    {
+        "continent":"South America",
+        "country":"Brazil",
+        "city":"Brasilia",
+        "landmark":"Pal\u00e1cio do Planalto",
+        "architect":"Oscar Niemeyer",
+        "latitude":-15.7986,
+        "longitude":-47.8651,
+        "priority":1
+    },
+    {
+        "continent":"South America",
+        "country":"Brazil",
+        "city":"Brasilia",
+        "landmark":"Congresso Nacional",
+        "architect":"Oscar Niemeyer",
+        "latitude":-15.7985,
+        "longitude":-47.8665,
+        "priority":1
+    },
+    {
+        "continent":"South America",
+        "country":"Brazil",
+        "city":"Brasilia",
+        "landmark":"Itamaraty Palace",
+        "architect":"Oscar Niemeyer",
+        "latitude":-15.8001,
+        "longitude":-47.8631,
+        "priority":2
+    },
+    {
+        "continent":"South America",
+        "country":"Brazil",
+        "city":"Brasilia",
+        "landmark":"Pal\u00e1cio da Alvorada",
+        "architect":"Oscar Niemeyer",
+        "latitude":-15.7725,
+        "longitude":-47.8286,
+        "priority":2
+    },
+    {
+        "continent":"South America",
+        "country":"Brazil",
+        "city":"Brasilia",
+        "landmark":"Museu Nacional da Rep\u00fablica",
+        "architect":"Oscar Niemeyer",
+        "latitude":-15.7937,
+        "longitude":-47.8822,
+        "priority":2
+    },
+    {
+        "continent":"South America",
+        "country":"Brazil",
+        "city":"Brasilia",
+        "landmark":"Memorial JK",
+        "architect":"Oscar Niemeyer",
+        "latitude":-15.789,
+        "longitude":-47.8935,
+        "priority":3
+    },
+    {
+        "continent":"South America",
+        "country":"Brazil",
+        "city":"Brasilia",
+        "landmark":"Teatro Nacional Claudio Santoro",
+        "architect":"Oscar Niemeyer",
+        "latitude":-15.7915,
+        "longitude":-47.8805,
+        "priority":3
+    },
+    {
+        "continent":"South America",
+        "country":"Argentina",
+        "city":"Buenos Aires",
+        "landmark":"Teatro Col\u00f3n",
+        "architect":"Tamburini\/Meano\/Dormal",
+        "latitude":-34.6011,
+        "longitude":-58.3822,
+        "priority":1
+    },
+    {
+        "continent":"South America",
+        "country":"Argentina",
+        "city":"Buenos Aires",
+        "landmark":"Casa Curutchet",
+        "architect":"Le Corbusier",
+        "latitude":-34.9126,
+        "longitude":-57.9472,
+        "priority":1
+    },
+    {
+        "continent":"South America",
+        "country":"Argentina",
+        "city":"Buenos Aires",
+        "landmark":"Edificio Kavanagh",
+        "architect":"S\u00e1nchez\/Lagos\/de la Torre",
+        "latitude":-34.5956,
+        "longitude":-58.3756,
+        "priority":2
+    },
+    {
+        "continent":"South America",
+        "country":"Argentina",
+        "city":"Buenos Aires",
+        "landmark":"MALBA",
+        "architect":"Herreros\/Arquitectos",
+        "latitude":-34.5772,
+        "longitude":-58.4064,
+        "priority":2
+    },
+    {
+        "continent":"South America",
+        "country":"Chile",
+        "city":"Santiago",
+        "landmark":"CEPAL Building",
+        "architect":"Emilio Duhart",
+        "latitude":-33.4074,
+        "longitude":-70.531,
+        "priority":1
+    },
+    {
+        "continent":"South America",
+        "country":"Chile",
+        "city":"Santiago",
+        "landmark":"Museo Chileno de Arte Precolombino",
+        "architect":"Sergio Larra\u00edn Garc\u00eda-Moreno",
+        "latitude":-33.4385,
+        "longitude":-70.6521,
+        "priority":2
+    },
+    {
+        "continent":"South America",
+        "country":"Chile",
+        "city":"Santiago",
+        "landmark":"Centro Cultural La Moneda",
+        "architect":"Undurraga Dev\u00e9s",
+        "latitude":-33.4435,
+        "longitude":-70.6534,
+        "priority":2
+    },
+    {
+        "continent":"South America",
+        "country":"Chile",
+        "city":"Santiago",
+        "landmark":"Templo Bah\u00e1'\u00ed de Sudam\u00e9rica",
+        "architect":"Siamak Hariri",
+        "latitude":-33.4735,
+        "longitude":-70.505,
+        "priority":1
+    },
+    {
+        "continent":"South America",
+        "country":"Peru",
+        "city":"Lima",
+        "landmark":"Casa de la Literatura Peruana",
+        "architect":"Various",
+        "latitude":-12.0457,
+        "longitude":-77.0289,
+        "priority":2
+    },
+    {
+        "continent":"South America",
+        "country":"Peru",
+        "city":"Lima",
+        "landmark":"Edificio Banco de Cr\u00e9dito",
+        "architect":"Arquitect\u00f3nica",
+        "latitude":-12.0833,
+        "longitude":-77.0019,
+        "priority":1
+    },
+    {
+        "continent":"South America",
+        "country":"Peru",
+        "city":"Lima",
+        "landmark":"Museo de Arte de Lima (MALI)",
+        "architect":"Giulliani\/Bianchi",
+        "latitude":-12.0645,
+        "longitude":-77.0345,
+        "priority":1
+    },
+    {
+        "continent":"South America",
+        "country":"Peru",
+        "city":"Lima",
+        "landmark":"Huaca Pucllana",
+        "architect":"Ancient Civilization",
+        "latitude":-12.1028,
+        "longitude":-77.0279,
+        "priority":3
+    },
+    {
+        "continent":"Central America",
+        "country":"Panama",
+        "city":"Panama City",
+        "landmark":"Biomuseo",
+        "architect":"Frank Gehry",
+        "latitude":8.9489,
+        "longitude":-79.5316,
+        "priority":1
+    },
+    {
+        "continent":"Central America",
+        "country":"Panama",
+        "city":"Panama City",
+        "landmark":"Panama Canal Administration Building",
+        "architect":"Austin W. Lord",
+        "latitude":8.9667,
+        "longitude":-79.5633,
+        "priority":2
+    },
+    {
+        "continent":"Central America",
+        "country":"Panama",
+        "city":"Panama City",
+        "landmark":"Iglesia del Carmen",
+        "architect":"Unknown",
+        "latitude":8.9774,
+        "longitude":-79.5332,
+        "priority":3
+    },
+    {
+        "continent":"Central America",
+        "country":"Panama",
+        "city":"Panama City",
+        "landmark":"Torre F&F",
+        "architect":"Pinz\u00f3n Lozano",
+        "latitude":8.9793,
+        "longitude":-79.5103,
+        "priority":2
+    },
+    {
+        "continent":"Central America",
+        "country":"Costa Rica",
+        "city":"San Jose",
+        "landmark":"Teatro Nacional de Costa Rica",
+        "architect":"Various",
+        "latitude":9.9328,
+        "longitude":-84.0776,
+        "priority":1
+    },
+    {
+        "continent":"Central America",
+        "country":"Costa Rica",
+        "city":"San Jose",
+        "landmark":"Museo de Arte Costarricense",
+        "architect":"Luis Llach",
+        "latitude":9.9317,
+        "longitude":-84.1085,
+        "priority":2
+    },
+    {
+        "continent":"Central America",
+        "country":"Costa Rica",
+        "city":"San Jose",
+        "landmark":"Edificio Met\u00e1lico",
+        "architect":"Charles Thirion",
+        "latitude":9.9366,
+        "longitude":-84.0759,
+        "priority":2
+    },
+    {
+        "continent":"Central America",
+        "country":"Costa Rica",
+        "city":"San Jose",
+        "landmark":"Biblioteca Nacional",
+        "architect":"Jorge Aguirre",
+        "latitude":9.9348,
+        "longitude":-84.0722,
+        "priority":3
+    },
+    {
+        "continent":"Central America",
+        "country":"Cuba",
+        "city":"Havana",
+        "landmark":"El Capitolio",
+        "architect":"Eugenio Rayneri Piedra",
+        "latitude":23.1353,
+        "longitude":-82.359,
+        "priority":1
+    },
+    {
+        "continent":"Central America",
+        "country":"Cuba",
+        "city":"Havana",
+        "landmark":"Escuela Nacional de Arte (ENA)",
+        "architect":"Ricardo Porro",
+        "latitude":23.0886,
+        "longitude":-82.4334,
+        "priority":1
+    },
+    {
+        "continent":"Central America",
+        "country":"Cuba",
+        "city":"Havana",
+        "landmark":"Hotel Nacional de Cuba",
+        "architect":"McKim, Mead & White",
+        "latitude":23.1436,
+        "longitude":-82.3789,
+        "priority":2
+    },
+    {
+        "continent":"Central America",
+        "country":"Cuba",
+        "city":"Havana",
+        "landmark":"Edificio Bacard\u00ed",
+        "architect":"Raoul Otero\/Rafael Fern\u00e1ndez",
+        "latitude":23.1368,
+        "longitude":-82.3558,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Madrid",
+        "landmark":"Museo del Prado",
+        "architect":"Juan de Villanueva",
+        "latitude":40.4138,
+        "longitude":-3.6921,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Madrid",
+        "landmark":"Torres Blancas",
+        "architect":"Francisco Javier S\u00e1enz de Oiza",
+        "latitude":40.4394,
+        "longitude":-3.6738,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Madrid",
+        "landmark":"CaixaForum Madrid",
+        "architect":"Herzog & de Meuron",
+        "latitude":40.4124,
+        "longitude":-3.6917,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Madrid",
+        "landmark":"Edificio Metropolis",
+        "architect":"Jules & Raymond F\u00e9vrier",
+        "latitude":40.4187,
+        "longitude":-3.6985,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Madrid",
+        "landmark":"Auditorio Nacional de M\u00fasica",
+        "architect":"Jos\u00e9 Mar\u00eda Garc\u00eda de Paredes",
+        "latitude":40.4468,
+        "longitude":-3.6757,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Madrid",
+        "landmark":"Fundaci\u00f3n Giner de los R\u00edos",
+        "architect":"Amid.cero9",
+        "latitude":40.4355,
+        "longitude":-3.6925,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Madrid",
+        "landmark":"Museo Reina Sof\u00eda (Ampliaci\u00f3n)",
+        "architect":"Jean Nouvel",
+        "latitude":40.4075,
+        "longitude":-3.6946,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Madrid",
+        "landmark":"Estaci\u00f3n de Atocha",
+        "architect":"Rafael Moneo",
+        "latitude":40.4065,
+        "longitude":-3.6881,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Madrid",
+        "landmark":"Biblioteca Nacional",
+        "architect":"Francisco Jare\u00f1o",
+        "latitude":40.423,
+        "longitude":-3.6919,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Madrid",
+        "landmark":"Edificio Telef\u00f3nica",
+        "architect":"Ignacio de C\u00e1rdenas",
+        "latitude":40.4194,
+        "longitude":-3.7027,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Madrid",
+        "landmark":"Museo ABC",
+        "architect":"Aranguren & Gallegos",
+        "latitude":40.4252,
+        "longitude":-3.7032,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Madrid",
+        "landmark":"Matadero Madrid",
+        "architect":"Various",
+        "latitude":40.3895,
+        "longitude":-3.6974,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Barcelona",
+        "landmark":"Sagrada Fam\u00edlia",
+        "architect":"Antoni Gaud\u00ed",
+        "latitude":41.4036,
+        "longitude":2.1744,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Barcelona",
+        "landmark":"Pabell\u00f3n de Barcelona",
+        "architect":"Mies van der Rohe",
+        "latitude":41.3687,
+        "longitude":2.1522,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Barcelona",
+        "landmark":"Casa Mil\u00e0",
+        "architect":"Antoni Gaud\u00ed",
+        "latitude":41.3902,
+        "longitude":2.1647,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Barcelona",
+        "landmark":"Museo MACBA",
+        "architect":"Richard Meier",
+        "latitude":41.3827,
+        "longitude":2.1651,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Barcelona",
+        "landmark":"Fundaci\u00f3n Joan Mir\u00f3",
+        "architect":"Josep Llu\u00eds Sert",
+        "latitude":41.3671,
+        "longitude":2.1601,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Barcelona",
+        "landmark":"Mercat de Santa Caterina",
+        "architect":"Miralles Tagliabue EMBT",
+        "latitude":41.3855,
+        "longitude":2.1804,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Barcelona",
+        "landmark":"Edificio Walden 7",
+        "architect":"Ricardo Bofill",
+        "latitude":41.3787,
+        "longitude":2.0625,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Barcelona",
+        "landmark":"Casa Batll\u00f3",
+        "architect":"Antoni Gaud\u00ed",
+        "latitude":41.3916,
+        "longitude":2.1649,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Barcelona",
+        "landmark":"Biblioteca Jaume Fuster",
+        "architect":"Josep Llin\u00e0s",
+        "latitude":41.4048,
+        "longitude":2.1523,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Barcelona",
+        "landmark":"Torre Gl\u00f2ries",
+        "architect":"Jean Nouvel",
+        "latitude":41.4036,
+        "longitude":2.1899,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Valencia",
+        "landmark":"Ciudad de las Artes y las Ciencias",
+        "architect":"Santiago Calatrava",
+        "latitude":39.4545,
+        "longitude":-0.3508,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Valencia",
+        "landmark":"Mercado Central",
+        "architect":"Soler\/Guardia",
+        "latitude":39.4735,
+        "longitude":-0.3788,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Valencia",
+        "landmark":"IVAM",
+        "architect":"Emilio Gim\u00e9nez",
+        "latitude":39.4772,
+        "longitude":-0.3831,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Valencia",
+        "landmark":"Estaci\u00f3n del Norte",
+        "architect":"Demetrio Ribes",
+        "latitude":39.4678,
+        "longitude":-0.377,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Valencia",
+        "landmark":"Edificio del Reloj",
+        "architect":"Demetrio Ribes",
+        "latitude":39.4542,
+        "longitude":-0.3344,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Valencia",
+        "landmark":"Veles e Vents",
+        "architect":"David Chipperfield",
+        "latitude":39.4563,
+        "longitude":-0.3333,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Valencia",
+        "landmark":"Edificio de Correos",
+        "architect":"Various",
+        "latitude":39.4695,
+        "longitude":-0.3752,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Valencia",
+        "landmark":"Palau de la M\u00fasica",
+        "architect":"Jos\u00e9 Mar\u00eda Garc\u00eda de Paredes",
+        "latitude":39.459,
+        "longitude":-0.3569,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Valencia",
+        "landmark":"Casa Jud\u00eda",
+        "architect":"Juan Francisco Guardiola",
+        "latitude":39.4651,
+        "longitude":-0.3768,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Valencia",
+        "landmark":"Atarazanas del Grao",
+        "architect":"Various",
+        "latitude":39.4595,
+        "longitude":-0.334,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Bilbao",
+        "landmark":"Museo Guggenheim",
+        "architect":"Frank Gehry",
+        "latitude":43.2687,
+        "longitude":-2.934,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Bilbao",
+        "landmark":"Azkuna Zentroa",
+        "architect":"Philippe Starck",
+        "latitude":43.2619,
+        "longitude":-2.9333,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Bilbao",
+        "landmark":"Iberdrola Tower",
+        "architect":"C\u00e9sar Pelli",
+        "latitude":43.2647,
+        "longitude":-2.9372,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Bilbao",
+        "landmark":"Metro de Bilbao (Fosteritos)",
+        "architect":"Norman Foster",
+        "latitude":43.2603,
+        "longitude":-2.9298,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Bilbao",
+        "landmark":"Biblioteca de la Universidad de Deusto",
+        "architect":"Rafael Moneo",
+        "latitude":43.2725,
+        "longitude":-2.9378,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Bilbao",
+        "landmark":"Palacio Euskalduna",
+        "architect":"Soriano\/Palacios",
+        "latitude":43.2655,
+        "longitude":-2.943,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Bilbao",
+        "landmark":"Museo de Bellas Artes",
+        "architect":"Various",
+        "latitude":43.2635,
+        "longitude":-2.9385,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Bilbao",
+        "landmark":"San Mam\u00e9s Stadium",
+        "architect":"ACXT\/IDOM",
+        "latitude":43.2642,
+        "longitude":-2.9472,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Bilbao",
+        "landmark":"Edificio del Ensanche",
+        "architect":"Various",
+        "latitude":43.2625,
+        "longitude":-2.93,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"Spain",
+        "city":"Bilbao",
+        "landmark":"Museo Mar\u00edtimo (Itsasmuseum)",
+        "architect":"Various",
+        "latitude":43.268,
+        "longitude":-2.945,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"France",
+        "city":"Paris",
+        "landmark":"Centre Pompidou",
+        "architect":"Piano\/Rogers",
+        "latitude":48.8606,
+        "longitude":2.3522,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"France",
+        "city":"Paris",
+        "landmark":"Louvre Pyramid",
+        "architect":"I.M. Pei",
+        "latitude":48.8616,
+        "longitude":2.3358,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"France",
+        "city":"Paris",
+        "landmark":"Fondation Louis Vuitton",
+        "architect":"Frank Gehry",
+        "latitude":48.8767,
+        "longitude":2.2634,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"France",
+        "city":"Paris",
+        "landmark":"Notre-Dame de Paris",
+        "architect":"Various",
+        "latitude":48.853,
+        "longitude":2.3499,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"France",
+        "city":"Paris",
+        "landmark":"Institut du Monde Arabe",
+        "architect":"Jean Nouvel",
+        "latitude":48.8492,
+        "longitude":2.3541,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"France",
+        "city":"Paris",
+        "landmark":"Philharmonie de Paris",
+        "architect":"Jean Nouvel",
+        "latitude":48.8906,
+        "longitude":2.3925,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"France",
+        "city":"Paris",
+        "landmark":"UNESCO Headquarters",
+        "architect":"Breuer\/Zehrfuss\/Nervi",
+        "latitude":48.849,
+        "longitude":2.3056,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"France",
+        "city":"Paris",
+        "landmark":"Biblioth\u00e8que Nationale",
+        "architect":"Dominique Perrault",
+        "latitude":48.8354,
+        "longitude":2.3787,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"France",
+        "city":"Paris",
+        "landmark":"Palais de Tokyo",
+        "architect":"Dondel\/Aubert\/Viard",
+        "latitude":48.8637,
+        "longitude":2.2974,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"France",
+        "city":"Paris",
+        "landmark":"Espace Niemeyer",
+        "architect":"Oscar Niemeyer",
+        "latitude":48.8837,
+        "longitude":2.3732,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"France",
+        "city":"Paris",
+        "landmark":"Gare du Nord",
+        "architect":"Jacques Hittorff",
+        "latitude":48.8809,
+        "longitude":2.3553,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"France",
+        "city":"Paris",
+        "landmark":"Villa Savoye",
+        "architect":"Le Corbusier",
+        "latitude":48.9245,
+        "longitude":2.0282,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Netherlands",
+        "city":"Amsterdam",
+        "landmark":"EYE Film Institute",
+        "architect":"Delugan Meissl",
+        "latitude":52.3828,
+        "longitude":4.9015,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Netherlands",
+        "city":"Amsterdam",
+        "landmark":"Stedelijk Museum (New Wing)",
+        "architect":"Benthem Crouwel",
+        "latitude":52.3582,
+        "longitude":4.8797,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Netherlands",
+        "city":"Amsterdam",
+        "landmark":"NEMO Science Museum",
+        "architect":"Renzo Piano",
+        "latitude":52.3748,
+        "longitude":4.9123,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Netherlands",
+        "city":"Amsterdam",
+        "landmark":"Westerkerk",
+        "architect":"Hendrick de Keyser",
+        "latitude":52.3757,
+        "longitude":4.8839,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"Netherlands",
+        "city":"Amsterdam",
+        "landmark":"Scheepvaartmuseum",
+        "architect":"Christian Kramers",
+        "latitude":52.3741,
+        "longitude":4.9113,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Netherlands",
+        "city":"Amsterdam",
+        "landmark":"Van Gogh Museum",
+        "architect":"Gerrit Rietveld",
+        "latitude":52.3584,
+        "longitude":4.8811,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Netherlands",
+        "city":"Amsterdam",
+        "landmark":"Amsterdam Central Station",
+        "architect":"P.J.H. Cuypers",
+        "latitude":52.3791,
+        "longitude":4.9003,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Netherlands",
+        "city":"Amsterdam",
+        "landmark":"Paleis op de Dam",
+        "architect":"Jacob van Campen",
+        "latitude":52.3731,
+        "longitude":4.8911,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Netherlands",
+        "city":"Amsterdam",
+        "landmark":"Silodam",
+        "architect":"MVRDV",
+        "latitude":52.3912,
+        "longitude":4.8919,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"Netherlands",
+        "city":"Amsterdam",
+        "landmark":"Borneo-Sporenburg",
+        "architect":"West 8",
+        "latitude":52.3776,
+        "longitude":4.9355,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"Netherlands",
+        "city":"Rotterdam",
+        "landmark":"Kunsthal",
+        "architect":"Rem Koolhaas (OMA)",
+        "latitude":51.9103,
+        "longitude":4.4754,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Netherlands",
+        "city":"Rotterdam",
+        "landmark":"Cube Houses (Kubuswoningen)",
+        "architect":"Piet Blom",
+        "latitude":51.9213,
+        "longitude":4.4883,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Netherlands",
+        "city":"Rotterdam",
+        "landmark":"Erasmus Bridge",
+        "architect":"Ben van Berkel",
+        "latitude":51.9125,
+        "longitude":4.4819,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Netherlands",
+        "city":"Rotterdam",
+        "landmark":"Markthal",
+        "architect":"MVRDV",
+        "latitude":51.9205,
+        "longitude":4.4855,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Netherlands",
+        "city":"Rotterdam",
+        "landmark":"De Rotterdam",
+        "architect":"Rem Koolhaas (OMA)",
+        "latitude":51.908,
+        "longitude":4.4839,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Netherlands",
+        "city":"Rotterdam",
+        "landmark":"Van Nelle Factory",
+        "architect":"Brinkman\/Van der Vlugt",
+        "latitude":51.9283,
+        "longitude":4.4363,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Netherlands",
+        "city":"Rotterdam",
+        "landmark":"Rotterdam Centraal",
+        "architect":"Team CS",
+        "latitude":51.9225,
+        "longitude":4.4705,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Netherlands",
+        "city":"Rotterdam",
+        "landmark":"Depot Boijmans Van Beuningen",
+        "architect":"MVRDV",
+        "latitude":51.9109,
+        "longitude":4.4735,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Netherlands",
+        "city":"Rotterdam",
+        "landmark":"Sonneveld House",
+        "architect":"Brinkman\/Van der Vlugt",
+        "latitude":51.9117,
+        "longitude":4.4731,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"Netherlands",
+        "city":"Rotterdam",
+        "landmark":"Timmerhuis",
+        "architect":"Rem Koolhaas (OMA)",
+        "latitude":51.9216,
+        "longitude":4.4831,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"Germany",
+        "city":"Berlin",
+        "landmark":"Reichstag Dome",
+        "architect":"Norman Foster",
+        "latitude":52.5186,
+        "longitude":13.3761,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Germany",
+        "city":"Berlin",
+        "landmark":"Jewish Museum",
+        "architect":"Daniel Libeskind",
+        "latitude":52.502,
+        "longitude":13.3934,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Germany",
+        "city":"Berlin",
+        "landmark":"Philharmonie",
+        "architect":"Hans Scharoun",
+        "latitude":52.5103,
+        "longitude":13.3676,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Germany",
+        "city":"Berlin",
+        "landmark":"Neues Museum",
+        "architect":"David Chipperfield",
+        "latitude":52.5209,
+        "longitude":13.3975,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Germany",
+        "city":"Berlin",
+        "landmark":"Neue Nationalgalerie",
+        "architect":"Mies van der Rohe",
+        "latitude":52.5074,
+        "longitude":13.3653,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Germany",
+        "city":"Berlin",
+        "landmark":"Bauhaus Archive",
+        "architect":"Walter Gropius",
+        "latitude":52.5056,
+        "longitude":13.3533,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Germany",
+        "city":"Berlin",
+        "landmark":"DZ Bank Building",
+        "architect":"Frank Gehry",
+        "latitude":52.5168,
+        "longitude":13.3788,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Germany",
+        "city":"Berlin",
+        "landmark":"Fernsehturm",
+        "architect":"Hermann Henselmann",
+        "latitude":52.5208,
+        "longitude":13.4094,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"Germany",
+        "city":"Berlin",
+        "landmark":"Sony Center",
+        "architect":"Helmut Jahn",
+        "latitude":52.5105,
+        "longitude":13.3732,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Germany",
+        "city":"Berlin",
+        "landmark":"Berlin Central Station",
+        "architect":"Meinhard von Gerkan",
+        "latitude":52.5251,
+        "longitude":13.3694,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"Germany",
+        "city":"Berlin",
+        "landmark":"Boros Collection",
+        "architect":"Various",
+        "latitude":52.5244,
+        "longitude":13.3855,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"United Kingdom",
+        "city":"London",
+        "landmark":"The Shard",
+        "architect":"Renzo Piano",
+        "latitude":51.5045,
+        "longitude":-0.0865,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"United Kingdom",
+        "city":"London",
+        "landmark":"Tate Modern",
+        "architect":"Herzog & de Meuron",
+        "latitude":51.5076,
+        "longitude":-0.0994,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"United Kingdom",
+        "city":"London",
+        "landmark":"British Museum (Great Court)",
+        "architect":"Norman Foster",
+        "latitude":51.5194,
+        "longitude":-0.127,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"United Kingdom",
+        "city":"London",
+        "landmark":"Lloyd's Building",
+        "architect":"Richard Rogers",
+        "latitude":51.5144,
+        "longitude":-0.0803,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"United Kingdom",
+        "city":"London",
+        "landmark":"Gherkin (30 St Mary Axe)",
+        "architect":"Norman Foster",
+        "latitude":51.5145,
+        "longitude":-0.0803,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"United Kingdom",
+        "city":"London",
+        "landmark":"Barbican Centre",
+        "architect":"Chamberlin\/Powell\/Bon",
+        "latitude":51.5199,
+        "longitude":-0.0942,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"United Kingdom",
+        "city":"London",
+        "landmark":"Royal Festival Hall",
+        "architect":"Robert Matthew",
+        "latitude":51.5065,
+        "longitude":-0.1171,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"United Kingdom",
+        "city":"London",
+        "landmark":"Westminster Abbey",
+        "architect":"Various",
+        "latitude":51.4993,
+        "longitude":-0.1273,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"United Kingdom",
+        "city":"London",
+        "landmark":"Serpentine Gallery",
+        "architect":"Various",
+        "latitude":51.5061,
+        "longitude":-0.1706,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"United Kingdom",
+        "city":"London",
+        "landmark":"Design Museum",
+        "architect":"John Pawson",
+        "latitude":51.5005,
+        "longitude":-0.1983,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"United Kingdom",
+        "city":"London",
+        "landmark":"Walkie Talkie",
+        "architect":"Rafael Vi\u00f1oly",
+        "latitude":51.5115,
+        "longitude":-0.0837,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"Iceland",
+        "city":"Reykjavik",
+        "landmark":"Hallgr\u00edmskirkja",
+        "architect":"Gu\u00f0j\u00f3n Sam\u00faelsson",
+        "latitude":64.1417,
+        "longitude":-21.9266,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Iceland",
+        "city":"Reykjavik",
+        "landmark":"Harpa Concert Hall",
+        "architect":"Henning Larsen\/Olafur Eliasson",
+        "latitude":64.1503,
+        "longitude":-21.9326,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Iceland",
+        "city":"Reykjavik",
+        "landmark":"Perlan",
+        "architect":"Ingimundur Sveinsson",
+        "latitude":64.1293,
+        "longitude":-21.9202,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Iceland",
+        "city":"Reykjavik",
+        "landmark":"The Nordic House",
+        "architect":"Alvar Aalto",
+        "latitude":64.1374,
+        "longitude":-21.9547,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Iceland",
+        "city":"Reykjavik",
+        "landmark":"Reykjavik City Hall",
+        "architect":"Studio Granda",
+        "latitude":64.1451,
+        "longitude":-21.9427,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"Iceland",
+        "city":"Reykjavik",
+        "landmark":"H\u00f6f\u00f0i House",
+        "architect":"Various",
+        "latitude":64.1464,
+        "longitude":-21.9164,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"Belgium",
+        "city":"Brussels",
+        "landmark":"Atomium",
+        "architect":"Andr\u00e9 Waterkeyn",
+        "latitude":50.8949,
+        "longitude":4.3414,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Belgium",
+        "city":"Brussels",
+        "landmark":"Royal Museums of Fine Arts",
+        "architect":"Various",
+        "latitude":50.8427,
+        "longitude":4.3571,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Belgium",
+        "city":"Brussels",
+        "landmark":"Horta Museum",
+        "architect":"Victor Horta",
+        "latitude":50.8227,
+        "longitude":4.3496,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Belgium",
+        "city":"Brussels",
+        "landmark":"European Parliament",
+        "architect":"Various",
+        "latitude":50.8373,
+        "longitude":4.3752,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Belgium",
+        "city":"Brussels",
+        "landmark":"Galeries Royales Saint-Hubert",
+        "architect":"Jean-Pierre Cluysenaar",
+        "latitude":50.8488,
+        "longitude":4.3562,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Belgium",
+        "city":"Brussels",
+        "landmark":"Hotel Tassel",
+        "architect":"Victor Horta",
+        "latitude":50.8265,
+        "longitude":4.359,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Belgium",
+        "city":"Brussels",
+        "landmark":"Palais de Justice",
+        "architect":"Joseph Poelaert",
+        "latitude":50.8368,
+        "longitude":4.3516,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Belgium",
+        "city":"Brussels",
+        "landmark":"Centre Belge de la Bande Dessin\u00e9e",
+        "architect":"Victor Horta",
+        "latitude":50.8524,
+        "longitude":4.3595,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"Belgium",
+        "city":"Brussels",
+        "landmark":"Berlaymont Building",
+        "architect":"Various",
+        "latitude":50.8415,
+        "longitude":4.3824,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"Belgium",
+        "city":"Brussels",
+        "landmark":"Flagey",
+        "architect":"Joseph Diongre",
+        "latitude":50.8285,
+        "longitude":4.373,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"Portugal",
+        "city":"Porto",
+        "landmark":"Casa da M\u00fasica",
+        "architect":"Rem Koolhaas (OMA)",
+        "latitude":41.1589,
+        "longitude":-8.6306,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Portugal",
+        "city":"Porto",
+        "landmark":"Museo Serralves",
+        "architect":"\u00c1lvaro Siza",
+        "latitude":41.1581,
+        "longitude":-8.6586,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Portugal",
+        "city":"Porto",
+        "landmark":"Estaci\u00f3n de S\u00e3o Bento",
+        "architect":"Jos\u00e9 Marques da Silva",
+        "latitude":41.1457,
+        "longitude":-8.6105,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Portugal",
+        "city":"Porto",
+        "landmark":"Puente Don Luis I",
+        "architect":"Th\u00e9ophile Seyrig",
+        "latitude":41.1406,
+        "longitude":-8.6067,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Portugal",
+        "city":"Porto",
+        "landmark":"Torre dos Cl\u00e9rigos",
+        "architect":"Nicolau Nasoni",
+        "latitude":41.1458,
+        "longitude":-8.6139,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Portugal",
+        "city":"Porto",
+        "landmark":"Biblioteca Municipal",
+        "architect":"Alexandre Alves Costa",
+        "latitude":41.1485,
+        "longitude":-8.5832,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"Portugal",
+        "city":"Porto",
+        "landmark":"Facultad de Arquitectura",
+        "architect":"\u00c1lvaro Siza",
+        "latitude":41.1492,
+        "longitude":-8.6418,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Portugal",
+        "city":"Porto",
+        "landmark":"Pal\u00e1cio da Bolsa",
+        "architect":"Various",
+        "latitude":41.1424,
+        "longitude":-8.6136,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Portugal",
+        "city":"Porto",
+        "landmark":"Casa de Ch\u00e1 da Boa Nova",
+        "architect":"\u00c1lvaro Siza",
+        "latitude":41.1969,
+        "longitude":-8.6819,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Portugal",
+        "city":"Porto",
+        "landmark":"Iglesia de los Cl\u00e9rigos",
+        "architect":"Nicolau Nasoni",
+        "latitude":41.1458,
+        "longitude":-8.614,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"Portugal",
+        "city":"Lisboa",
+        "landmark":"Monasterio de los Jer\u00f3nimos",
+        "architect":"Diogo de Boitaca",
+        "latitude":38.6978,
+        "longitude":-9.2066,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Portugal",
+        "city":"Lisboa",
+        "landmark":"Torre de Bel\u00e9m",
+        "architect":"Francisco de Arruda",
+        "latitude":38.6916,
+        "longitude":-9.216,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Portugal",
+        "city":"Lisboa",
+        "landmark":"MAAT Museum",
+        "architect":"Amanda Levete",
+        "latitude":38.6946,
+        "longitude":-9.2001,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Portugal",
+        "city":"Lisboa",
+        "landmark":"Centro Cultural de Bel\u00e9m",
+        "architect":"Gregotti\/Salgado",
+        "latitude":38.6948,
+        "longitude":-9.2081,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Portugal",
+        "city":"Lisboa",
+        "landmark":"Elevador de Santa Justa",
+        "architect":"Raoul Mesnier",
+        "latitude":38.7121,
+        "longitude":-9.1394,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Portugal",
+        "city":"Lisboa",
+        "landmark":"Pabell\u00f3n de Portugal (Expo 98)",
+        "architect":"\u00c1lvaro Siza",
+        "latitude":38.7675,
+        "longitude":-9.0945,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Portugal",
+        "city":"Lisboa",
+        "landmark":"Estaci\u00f3n de Oriente",
+        "architect":"Santiago Calatrava",
+        "latitude":38.7676,
+        "longitude":-9.0994,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Portugal",
+        "city":"Lisboa",
+        "landmark":"Calouste Gulbenkian Museum",
+        "architect":"Various",
+        "latitude":38.7369,
+        "longitude":-9.1554,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Portugal",
+        "city":"Lisboa",
+        "landmark":"Teatro Nacional D. Maria II",
+        "architect":"Fortunato Lodi",
+        "latitude":38.7139,
+        "longitude":-9.1396,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"Portugal",
+        "city":"Lisboa",
+        "landmark":"Convento do Carmo",
+        "architect":"Various",
+        "latitude":38.7118,
+        "longitude":-9.1388,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"Italy",
+        "city":"Rome",
+        "landmark":"Colosseo",
+        "architect":"Various",
+        "latitude":41.8902,
+        "longitude":12.4922,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Italy",
+        "city":"Rome",
+        "landmark":"Pantheon",
+        "architect":"Various",
+        "latitude":41.8986,
+        "longitude":12.4769,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Italy",
+        "city":"Rome",
+        "landmark":"MAXXI Museum",
+        "architect":"Zaha Hadid",
+        "latitude":41.9287,
+        "longitude":12.4682,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Italy",
+        "city":"Rome",
+        "landmark":"Parco della Musica",
+        "architect":"Renzo Piano",
+        "latitude":41.9298,
+        "longitude":12.4727,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Italy",
+        "city":"Rome",
+        "landmark":"Ara Pacis Museum",
+        "architect":"Richard Meier",
+        "latitude":41.906,
+        "longitude":12.4756,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Italy",
+        "city":"Rome",
+        "landmark":"Palazzo della Civilt\u00e0 Italiana",
+        "architect":"La Padula\/Guerrini\/Romano",
+        "latitude":41.8357,
+        "longitude":12.4627,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Italy",
+        "city":"Rome",
+        "landmark":"Basilica di San Pietro",
+        "architect":"Bramante\/Michelangelo",
+        "latitude":41.9022,
+        "longitude":12.4539,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Italy",
+        "city":"Rome",
+        "landmark":"Museo dell'Ara Pacis",
+        "architect":"Richard Meier",
+        "latitude":41.906,
+        "longitude":12.4756,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Italy",
+        "city":"Rome",
+        "landmark":"San Carlo alle Quattro Fontane",
+        "architect":"Francesco Borromini",
+        "latitude":41.9023,
+        "longitude":12.4912,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"Italy",
+        "city":"Rome",
+        "landmark":"Termini Station",
+        "architect":"Eugenio Montuori",
+        "latitude":41.9009,
+        "longitude":12.5014,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"Italy",
+        "city":"Florence",
+        "landmark":"Cattedrale di Santa Maria del Fiore",
+        "architect":"Filippo Brunelleschi",
+        "latitude":43.7731,
+        "longitude":11.255,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Italy",
+        "city":"Florence",
+        "landmark":"Basilica di San Lorenzo",
+        "architect":"Filippo Brunelleschi",
+        "latitude":43.7748,
+        "longitude":11.2536,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Italy",
+        "city":"Florence",
+        "landmark":"Galleria degli Uffizi",
+        "architect":"Giorgio Vasari",
+        "latitude":43.7677,
+        "longitude":11.2553,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Italy",
+        "city":"Florence",
+        "landmark":"Palazzo Pitti",
+        "architect":"Filippo Brunelleschi",
+        "latitude":43.7663,
+        "longitude":11.2505,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Italy",
+        "city":"Florence",
+        "landmark":"Ospedale degli Innocenti",
+        "architect":"Filippo Brunelleschi",
+        "latitude":43.7758,
+        "longitude":11.2586,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Italy",
+        "city":"Florence",
+        "landmark":"Palazzo Medici Riccardi",
+        "architect":"Michelozzo",
+        "latitude":43.7751,
+        "longitude":11.2547,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Italy",
+        "city":"Florence",
+        "landmark":"Santa Maria Novella (Facciata)",
+        "architect":"Leon Battista Alberti",
+        "latitude":43.7756,
+        "longitude":11.2497,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Italy",
+        "city":"Florence",
+        "landmark":"Biblioteca Laurenziana",
+        "architect":"Michelangelo",
+        "latitude":43.7745,
+        "longitude":11.2531,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Italy",
+        "city":"Florence",
+        "landmark":"Ponte Vecchio",
+        "architect":"Taddeo Gaddi",
+        "latitude":43.768,
+        "longitude":11.2532,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"Italy",
+        "city":"Florence",
+        "landmark":"Stazione di Santa Maria Novella",
+        "architect":"Giovanni Michelucci",
+        "latitude":43.7766,
+        "longitude":11.2486,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Italy",
+        "city":"Milan",
+        "landmark":"Duomo di Milano",
+        "architect":"Various",
+        "latitude":45.4641,
+        "longitude":9.1919,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Italy",
+        "city":"Milan",
+        "landmark":"Galleria Vittorio Emanuele II",
+        "architect":"Giuseppe Mengoni",
+        "latitude":45.4654,
+        "longitude":9.1899,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Italy",
+        "city":"Milan",
+        "landmark":"Torre Velasca",
+        "architect":"BBPR",
+        "latitude":45.4593,
+        "longitude":9.1895,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Italy",
+        "city":"Milan",
+        "landmark":"Bosco Verticale",
+        "architect":"Stefano Boeri",
+        "latitude":45.4854,
+        "longitude":9.1856,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Italy",
+        "city":"Milan",
+        "landmark":"Fondazione Prada",
+        "architect":"OMA (Rem Koolhaas)",
+        "latitude":45.4414,
+        "longitude":9.2065,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Italy",
+        "city":"Milan",
+        "landmark":"Pirelli Tower",
+        "architect":"Gio Ponti",
+        "latitude":45.4842,
+        "longitude":9.1977,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Italy",
+        "city":"Milan",
+        "landmark":"Stazione Centrale",
+        "architect":"Ulisse Stacchini",
+        "latitude":45.4855,
+        "longitude":9.2036,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Italy",
+        "city":"Milan",
+        "landmark":"Museo del Novecento",
+        "architect":"Italo Rota",
+        "latitude":45.4645,
+        "longitude":9.1912,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Milan",
+        "city":"Milan",
+        "landmark":"CityLife District",
+        "architect":"Zaha Hadid\/Libeskind\/Isozaki",
+        "latitude":45.4775,
+        "longitude":9.1558,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Italy",
+        "city":"Milan",
+        "landmark":"Teatro alla Scala",
+        "architect":"Giuseppe Piermarini",
+        "latitude":45.4673,
+        "longitude":9.1884,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"Finland",
+        "city":"Helsinki",
+        "landmark":"Finlandia Hall",
+        "architect":"Alvar Aalto",
+        "latitude":60.1731,
+        "longitude":24.9377,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Finland",
+        "city":"Helsinki",
+        "landmark":"Iglesia de Temppeliaukio",
+        "architect":"Suomalainen",
+        "latitude":60.173,
+        "longitude":24.9234,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Finland",
+        "city":"Helsinki",
+        "landmark":"Biblioteca Central Oodi",
+        "architect":"ALA Architects",
+        "latitude":60.1739,
+        "longitude":24.9389,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Finland",
+        "city":"Helsinki",
+        "landmark":"Catedral de Helsinki",
+        "architect":"C.L. Engel",
+        "latitude":60.1695,
+        "longitude":24.9525,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Finland",
+        "city":"Helsinki",
+        "landmark":"Kamppi Chapel",
+        "architect":"K2S Architects",
+        "latitude":60.1691,
+        "longitude":24.9355,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Finland",
+        "city":"Helsinki",
+        "landmark":"Museo Amos Rex",
+        "architect":"JKMM Architects",
+        "latitude":60.1706,
+        "longitude":24.9356,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Finland",
+        "city":"Helsinki",
+        "landmark":"Casa Aalto",
+        "architect":"Alvar Aalto",
+        "latitude":60.1983,
+        "longitude":24.9856,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Finland",
+        "city":"Helsinki",
+        "landmark":"Estaci\u00f3n Central",
+        "architect":"Eliel Saarinen",
+        "latitude":60.1717,
+        "longitude":24.9414,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Finland",
+        "city":"Helsinki",
+        "landmark":"Kulttuuritalo (Casa de la Cultura)",
+        "architect":"Alvar Aalto",
+        "latitude":60.1834,
+        "longitude":24.9547,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"Finland",
+        "city":"Helsinki",
+        "landmark":"Iglesia Kallio",
+        "architect":"Lars Sonck",
+        "latitude":60.1836,
+        "longitude":24.9525,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"Greece",
+        "city":"Athens",
+        "landmark":"Parthenon (Acropolis)",
+        "architect":"Ictinus\/Callicrates",
+        "latitude":37.9715,
+        "longitude":23.7267,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Greece",
+        "city":"Athens",
+        "landmark":"Acropolis Museum",
+        "architect":"Bernard Tschumi",
+        "latitude":37.9682,
+        "longitude":23.7285,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Greece",
+        "city":"Athens",
+        "landmark":"Stavros Niarchos Foundation",
+        "architect":"Renzo Piano",
+        "latitude":37.9431,
+        "longitude":23.6934,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Greece",
+        "city":"Athens",
+        "landmark":"Teatro de Herodes \u00c1tico",
+        "architect":"Tiberius Claudius",
+        "latitude":37.9703,
+        "longitude":23.725,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Greece",
+        "city":"Athens",
+        "landmark":"Biblioteca de Adriano",
+        "architect":"Various",
+        "latitude":37.9754,
+        "longitude":23.7258,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Greece",
+        "city":"Athens",
+        "landmark":"Estadio Panathinaik\u00f3",
+        "architect":"Anastasios Metaxas",
+        "latitude":37.9681,
+        "longitude":23.7413,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Greece",
+        "city":"Athens",
+        "landmark":"Monumento de Filopappos",
+        "architect":"Various",
+        "latitude":37.9667,
+        "longitude":23.7214,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"Greece",
+        "city":"Athens",
+        "landmark":"Museo Nacional de Arqueolog\u00eda",
+        "architect":"Lange\/Ziller",
+        "latitude":37.989,
+        "longitude":23.7327,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Greece",
+        "city":"Athens",
+        "landmark":"Technopolis (Gazi)",
+        "architect":"Various",
+        "latitude":37.9768,
+        "longitude":23.7145,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"Greece",
+        "city":"Athens",
+        "landmark":"\u00c1gora de Atenas",
+        "architect":"Various",
+        "latitude":37.9751,
+        "longitude":23.7226,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Denmark",
+        "city":"Copenhagen",
+        "landmark":"8 House (8-Tallet)",
+        "architect":"BIG (Bjarke Ingels)",
+        "latitude":55.6262,
+        "longitude":12.5585,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Denmark",
+        "city":"Copenhagen",
+        "landmark":"CopenHill (Amager Bakke)",
+        "architect":"BIG (Bjarke Ingels)",
+        "latitude":55.6853,
+        "longitude":12.6074,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Denmark",
+        "city":"Copenhagen",
+        "landmark":"Royal Danish Opera",
+        "architect":"Henning Larsen",
+        "latitude":55.6811,
+        "longitude":12.5956,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Denmark",
+        "city":"Copenhagen",
+        "landmark":"The Black Diamond (Royal Library)",
+        "architect":"Schmidt Hammer Lassen",
+        "latitude":55.6744,
+        "longitude":12.5855,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Denmark",
+        "city":"Copenhagen",
+        "landmark":"Grundtvig's Church",
+        "architect":"P.V. Jensen-Klint",
+        "latitude":55.7172,
+        "longitude":12.5375,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Denmark",
+        "city":"Copenhagen",
+        "landmark":"Tietgenkollegiet",
+        "architect":"Lundgaard & Tranberg",
+        "latitude":55.6601,
+        "longitude":12.5898,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Denmark",
+        "city":"Copenhagen",
+        "landmark":"BLOX (DAC)",
+        "architect":"OMA (Ellen van Loon)",
+        "latitude":55.6738,
+        "longitude":12.5815,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Denmark",
+        "city":"Copenhagen",
+        "landmark":"Den Bl\u00e5 Planet",
+        "architect":"3XN Architects",
+        "latitude":55.6384,
+        "longitude":12.6517,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Denmark",
+        "city":"Copenhagen",
+        "landmark":"Axel Towers",
+        "architect":"Lundgaard & Tranberg",
+        "latitude":55.6766,
+        "longitude":12.5639,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"Denmark",
+        "city":"Copenhagen",
+        "landmark":"Superkilen Park",
+        "architect":"BIG \/ Topotek1 \/ Superflex",
+        "latitude":55.6946,
+        "longitude":12.5451,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"Austria",
+        "city":"Bregenz",
+        "landmark":"Kunsthaus Bregenz",
+        "architect":"Peter Zumthor",
+        "latitude":47.5036,
+        "longitude":9.7468,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Austria",
+        "city":"Bregenz",
+        "landmark":"Seeb\u00fchne (Floating Stage)",
+        "architect":"Various",
+        "latitude":47.5065,
+        "longitude":9.7412,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Austria",
+        "city":"Bregenz",
+        "landmark":"Vorarlberg Museum",
+        "architect":"Cukrowicz Nachbaur",
+        "latitude":47.5038,
+        "longitude":9.7461,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Austria",
+        "city":"Bregenz",
+        "landmark":"Pf\u00e4nderbahn Station",
+        "architect":"Various",
+        "latitude":47.5042,
+        "longitude":9.7483,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"Austria",
+        "city":"Bregenz",
+        "landmark":"Landhaus Bregenz",
+        "architect":"Wilhelm Holzbauer",
+        "latitude":47.5015,
+        "longitude":9.7418,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"Austria",
+        "city":"Vienna",
+        "landmark":"Karlskirche",
+        "architect":"J.B. Fischer von Erlach",
+        "latitude":48.1983,
+        "longitude":16.3718,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Vienna",
+        "city":"Vienna",
+        "landmark":"Hundertwasserhaus",
+        "architect":"Friedensreich Hundertwasser",
+        "latitude":48.2073,
+        "longitude":16.3944,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Vienna",
+        "city":"Vienna",
+        "landmark":"Wien Museum (Neue)",
+        "architect":"Certov\/Winkler + Ruck",
+        "latitude":48.2003,
+        "longitude":16.3722,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Vienna",
+        "city":"Vienna",
+        "landmark":"Secession Building",
+        "architect":"Joseph Maria Olbrich",
+        "latitude":48.2008,
+        "longitude":16.3653,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Vienna",
+        "city":"Vienna",
+        "landmark":"DC Tower 1",
+        "architect":"Dominique Perrault",
+        "latitude":48.2325,
+        "longitude":16.4087,
+        "priority":1
+    },
+    {
+        "continent":"Europe",
+        "country":"Vienna",
+        "city":"Vienna",
+        "landmark":"Postsparkasse",
+        "architect":"Otto Wagner",
+        "latitude":48.2098,
+        "longitude":16.3792,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Vienna",
+        "city":"Vienna",
+        "landmark":"Haas Haus",
+        "architect":"Hans Hollein",
+        "latitude":48.2085,
+        "longitude":16.3725,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Vienna",
+        "city":"Vienna",
+        "landmark":"Kunsthistorisches Museum",
+        "architect":"Semper\/Hasenauer",
+        "latitude":48.2036,
+        "longitude":16.3615,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Vienna",
+        "city":"Vienna",
+        "landmark":"University of Economics (Campus)",
+        "architect":"Zaha Hadid\/Varios",
+        "latitude":48.2133,
+        "longitude":16.4116,
+        "priority":2
+    },
+    {
+        "continent":"Europe",
+        "country":"Vienna",
+        "city":"Vienna",
+        "landmark":"Wotruba Church",
+        "architect":"Fritz Wotruba",
+        "latitude":48.1517,
+        "longitude":16.2959,
+        "priority":3
+    },
+    {
+        "continent":"Europe",
+        "country":"Vienna",
+        "city":"Vienna",
+        "landmark":"Karl-Marx-Hof",
+        "architect":"Karl Ehn",
+        "latitude":48.2503,
+        "longitude":16.3651,
+        "priority":3
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Tokyo",
+        "landmark":"Nakagin Capsule Tower",
+        "architect":"Kisho Kurokawa",
+        "latitude":35.669,
+        "longitude":139.7607,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Tokyo",
+        "landmark":"St. Mary's Cathedral",
+        "architect":"Kenzo Tange",
+        "latitude":35.7135,
+        "longitude":139.7275,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Tokyo",
+        "landmark":"Prada Aoyama",
+        "architect":"Herzog & de Meuron",
+        "latitude":35.6657,
+        "longitude":139.7153,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Tokyo",
+        "landmark":"Yoyogi National Gymnasium",
+        "architect":"Kenzo Tange",
+        "latitude":35.6666,
+        "longitude":139.6997,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Tokyo",
+        "landmark":"Tokyo International Forum",
+        "architect":"Rafael Vi\u00f1oly",
+        "latitude":35.6766,
+        "longitude":139.7634,
+        "priority":2
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Tokyo",
+        "landmark":"Mode Gakuen Cocoon Tower",
+        "architect":"Tange Associates",
+        "latitude":35.6908,
+        "longitude":139.6967,
+        "priority":2
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Tokyo",
+        "landmark":"SunnyHills at Minami-Aoyama",
+        "architect":"Kengo Kuma",
+        "latitude":35.6635,
+        "longitude":139.7166,
+        "priority":3
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Tokyo",
+        "landmark":"Omotesando Hills",
+        "architect":"Tadao Ando",
+        "latitude":35.6665,
+        "longitude":139.7118,
+        "priority":2
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Tokyo",
+        "landmark":"Dior Omotesando",
+        "architect":"SANAA",
+        "latitude":35.6661,
+        "longitude":139.7126,
+        "priority":2
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Tokyo",
+        "landmark":"Shibaura House",
+        "architect":"SANAA",
+        "latitude":35.6425,
+        "longitude":139.7466,
+        "priority":3
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Tokyo",
+        "landmark":"The National Art Center",
+        "architect":"Kisho Kurokawa",
+        "latitude":35.6655,
+        "longitude":139.7258,
+        "priority":2
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Tokyo",
+        "landmark":"Reversible Destiny Lofts",
+        "architect":"Arakawa\/Gins",
+        "latitude":35.6989,
+        "longitude":139.539,
+        "priority":3
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Tokyo",
+        "landmark":"Ginza Namiki Street",
+        "architect":"Various",
+        "latitude":35.6715,
+        "longitude":139.7628,
+        "priority":3
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Tokyo",
+        "landmark":"Tokyo Tower",
+        "architect":"Tach\u016b Nait\u014d",
+        "latitude":35.6586,
+        "longitude":139.7454,
+        "priority":3
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Tokyo",
+        "landmark":"Sky House",
+        "architect":"Kiyonori Kikutake",
+        "latitude":35.706,
+        "longitude":139.6231,
+        "priority":3
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Tokyo",
+        "landmark":"21_21 Design Sight",
+        "architect":"Tadao Ando",
+        "latitude":35.666,
+        "longitude":139.7288,
+        "priority":2
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Tokyo",
+        "landmark":"Nezu Museum",
+        "architect":"Kengo Kuma",
+        "latitude":35.6644,
+        "longitude":139.7175,
+        "priority":2
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Kyoto",
+        "landmark":"Kyoto International Conf. Center",
+        "architect":"Sachio Otani",
+        "latitude":35.0601,
+        "longitude":135.7828,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Kyoto",
+        "landmark":"Ginkaku-ji",
+        "architect":"Shogun Ashikaga",
+        "latitude":35.0271,
+        "longitude":135.7982,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Kyoto",
+        "landmark":"Kyoto Station",
+        "architect":"Hiroshi Hara",
+        "latitude":34.9858,
+        "longitude":135.7587,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Kyoto",
+        "landmark":"Garden of Fine Arts",
+        "architect":"Tadao Ando",
+        "latitude":35.045,
+        "longitude":135.7725,
+        "priority":2
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Kyoto",
+        "landmark":"Ryoan-ji Temple",
+        "architect":"Various",
+        "latitude":35.0345,
+        "longitude":135.7182,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Kyoto",
+        "landmark":"Kinkaku-ji",
+        "architect":"Various",
+        "latitude":35.0394,
+        "longitude":135.7292,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Kyoto",
+        "landmark":"Kiyomizu-dera",
+        "architect":"Various",
+        "latitude":34.9949,
+        "longitude":135.785,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Kyoto",
+        "landmark":"Kyoto City Kyocera Museum",
+        "architect":"Junzo Maeda",
+        "latitude":35.0118,
+        "longitude":135.7818,
+        "priority":2
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Kyoto",
+        "landmark":"Time's I & II",
+        "architect":"Tadao Ando",
+        "latitude":35.0084,
+        "longitude":135.7709,
+        "priority":2
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Kyoto",
+        "landmark":"Kyoto Concert Hall",
+        "architect":"Arata Isozaki",
+        "latitude":35.0451,
+        "longitude":135.7656,
+        "priority":3
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Osaka",
+        "landmark":"Umeda Sky Building",
+        "architect":"Hiroshi Hara",
+        "latitude":34.7042,
+        "longitude":135.4886,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Osaka",
+        "landmark":"Church of the Light",
+        "architect":"Tadao Ando",
+        "latitude":34.8193,
+        "longitude":135.534,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Osaka",
+        "landmark":"Abeno Harukas",
+        "architect":"Pelli Clarke Pelli",
+        "latitude":34.6465,
+        "longitude":135.5132,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Osaka",
+        "landmark":"Festival Hall",
+        "architect":"Nikken Sekkei",
+        "latitude":34.6933,
+        "longitude":135.4952,
+        "priority":2
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Osaka",
+        "landmark":"Osaka Prefectural Gymnasium",
+        "architect":"Kunio Maekawa",
+        "latitude":34.662,
+        "longitude":135.4975,
+        "priority":3
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Osaka",
+        "landmark":"Shin-Osaka Station",
+        "architect":"Various",
+        "latitude":34.7338,
+        "longitude":135.5001,
+        "priority":2
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Osaka",
+        "landmark":"Osaka Castle",
+        "architect":"Various",
+        "latitude":34.6873,
+        "longitude":135.5262,
+        "priority":2
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Osaka",
+        "landmark":"Namba Parks",
+        "architect":"Jon Jerde",
+        "latitude":34.6636,
+        "longitude":135.5005,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Osaka",
+        "landmark":"Osaka City Central Public Hall",
+        "architect":"Okada Shinichiro",
+        "latitude":34.6925,
+        "longitude":135.5044,
+        "priority":3
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Osaka",
+        "landmark":"SMT Building",
+        "architect":"Minoru Takeyama",
+        "latitude":34.675,
+        "longitude":135.495,
+        "priority":3
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Osaka",
+        "landmark":"Church of the Light",
+        "architect":"Tadao Ando",
+        "latitude":34.8193,
+        "longitude":135.534,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Sendai",
+        "landmark":"Sendai Mediatheque",
+        "architect":"Toyo Ito",
+        "latitude":38.2605,
+        "longitude":140.8655,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Sendai",
+        "landmark":"Sendai International Center",
+        "architect":"Various",
+        "latitude":38.257,
+        "longitude":140.858,
+        "priority":2
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Sendai",
+        "landmark":"Tohoku University Library",
+        "architect":"Various",
+        "latitude":38.2548,
+        "longitude":140.8495,
+        "priority":2
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Sendai",
+        "landmark":"Sendai Station (Renovaci\u00f3n)",
+        "architect":"Various",
+        "latitude":38.2602,
+        "longitude":140.8824,
+        "priority":3
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Sendai",
+        "landmark":"Miyagi Prefectural Library",
+        "architect":"Hiroshi Hara",
+        "latitude":38.318,
+        "longitude":140.832,
+        "priority":3
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Sendai",
+        "landmark":"Sendai Trust Tower",
+        "architect":"Mori Trust",
+        "latitude":38.2568,
+        "longitude":140.8755,
+        "priority":3
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Naoshima",
+        "landmark":"Chichu Art Museum",
+        "architect":"Tadao Ando",
+        "latitude":34.4533,
+        "longitude":133.985,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Naoshima",
+        "landmark":"Benesse House",
+        "architect":"Tadao Ando",
+        "latitude":34.456,
+        "longitude":133.9841,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Naoshima",
+        "landmark":"Lee Ufan Museum",
+        "architect":"Tadao Ando",
+        "latitude":34.452,
+        "longitude":133.982,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Naoshima",
+        "landmark":"Naoshima Ferry Terminal",
+        "architect":"SANAA",
+        "latitude":34.45,
+        "longitude":133.992,
+        "priority":2
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Naoshima",
+        "landmark":"Art House Project",
+        "architect":"Various",
+        "latitude":34.4545,
+        "longitude":133.991,
+        "priority":2
+    },
+    {
+        "continent":"Asia",
+        "country":"Japan",
+        "city":"Naoshima",
+        "landmark":"Tadao Ando Museum",
+        "architect":"Tadao Ando",
+        "latitude":34.454,
+        "longitude":133.9915,
+        "priority":2
+    },
+    {
+        "continent":"Asia",
+        "country":"South Korea",
+        "city":"Seoul",
+        "landmark":"Dongdaemun Design Plaza",
+        "architect":"Zaha Hadid",
+        "latitude":37.5668,
+        "longitude":127.0097,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"South Korea",
+        "city":"Seoul",
+        "landmark":"Leeum Samsung Museum",
+        "architect":"OMA\/Ando\/Nouvel",
+        "latitude":37.5376,
+        "longitude":127.0006,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"South Korea",
+        "city":"Seoul",
+        "landmark":"Seoul City Hall",
+        "architect":"iArc",
+        "latitude":37.5665,
+        "longitude":126.978,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"South Korea",
+        "city":"Seoul",
+        "landmark":"National Museum of Korea",
+        "architect":"Chang-Il Kim",
+        "latitude":37.5238,
+        "longitude":126.9804,
+        "priority":2
+    },
+    {
+        "continent":"Asia",
+        "country":"South Korea",
+        "city":"Seoul",
+        "landmark":"Kyobo Tower",
+        "architect":"Mario Botta",
+        "latitude":37.5029,
+        "longitude":127.0245,
+        "priority":2
+    },
+    {
+        "continent":"Asia",
+        "country":"South Korea",
+        "city":"Seoul",
+        "landmark":"Ssamziegil (Insadong)",
+        "architect":"Choi Moon-gyu",
+        "latitude":37.575,
+        "longitude":126.9855,
+        "priority":2
+    },
+    {
+        "continent":"Asia",
+        "country":"South Korea",
+        "city":"Seoul",
+        "landmark":"Seoullo 7017",
+        "architect":"MVRDV",
+        "latitude":37.5562,
+        "longitude":126.9723,
+        "priority":3
+    },
+    {
+        "continent":"Asia",
+        "country":"South Korea",
+        "city":"Seoul",
+        "landmark":"Arario Museum in Space",
+        "architect":"Kim Swoo-geun",
+        "latitude":37.5778,
+        "longitude":126.9869,
+        "priority":2
+    },
+    {
+        "continent":"Asia",
+        "country":"Thailand",
+        "city":"Bangkok",
+        "landmark":"MahaNakhon Building",
+        "architect":"Ole Scheeren",
+        "latitude":13.7224,
+        "longitude":100.5262,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"Thailand",
+        "city":"Bangkok",
+        "landmark":"The Met",
+        "architect":"WOHA Architects",
+        "latitude":13.7196,
+        "longitude":100.5306,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"Thailand",
+        "city":"Bangkok",
+        "landmark":"Bangkok Art & Culture Centre",
+        "architect":"Robert G. Boughey",
+        "latitude":13.7466,
+        "longitude":100.5284,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"Thailand",
+        "city":"Bangkok",
+        "landmark":"Jim Thompson House",
+        "architect":"Various",
+        "latitude":13.7495,
+        "longitude":100.5285,
+        "priority":2
+    },
+    {
+        "continent":"Asia",
+        "country":"Thailand",
+        "city":"Bangkok",
+        "landmark":"AIA Sathorn Tower",
+        "architect":"Various",
+        "latitude":13.7205,
+        "longitude":100.5268,
+        "priority":2
+    },
+    {
+        "continent":"Asia",
+        "country":"Thailand",
+        "city":"Bangkok",
+        "landmark":"Exchange Tower",
+        "architect":"Various",
+        "latitude":13.725,
+        "longitude":100.5606,
+        "priority":3
+    },
+    {
+        "continent":"Asia",
+        "country":"UAE",
+        "city":"Dubai",
+        "landmark":"Burj Khalifa",
+        "architect":"Adrian Smith (SOM)",
+        "latitude":25.1972,
+        "longitude":55.2744,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"UAE",
+        "city":"Dubai",
+        "landmark":"Burj Al Arab",
+        "architect":"Tom Wright (WKK)",
+        "latitude":25.1412,
+        "longitude":55.1853,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"UAE",
+        "city":"Dubai",
+        "landmark":"Museum of the Future",
+        "architect":"Killa Design",
+        "latitude":25.2185,
+        "longitude":55.2811,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"UAE",
+        "city":"Dubai",
+        "landmark":"Cayan Tower",
+        "architect":"SOM",
+        "latitude":25.0925,
+        "longitude":55.1455,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"UAE",
+        "city":"Dubai",
+        "landmark":"Palm Jumeirah",
+        "architect":"Nakheel (Various)",
+        "latitude":25.1124,
+        "longitude":55.139,
+        "priority":2
+    },
+    {
+        "continent":"Asia",
+        "country":"UAE",
+        "city":"Dubai",
+        "landmark":"Dubai Frame",
+        "architect":"Fernando Donis",
+        "latitude":25.2378,
+        "longitude":55.3109,
+        "priority":2
+    },
+    {
+        "continent":"Asia",
+        "country":"UAE",
+        "city":"Dubai",
+        "landmark":"Jumeirah Emirates Towers",
+        "architect":"NORR",
+        "latitude":25.2155,
+        "longitude":55.2831,
+        "priority":2
+    },
+    {
+        "continent":"Asia",
+        "country":"UAE",
+        "city":"Dubai",
+        "landmark":"The Opus (ME Dubai)",
+        "architect":"Zaha Hadid",
+        "latitude":25.1855,
+        "longitude":55.2711,
+        "priority":2
+    },
+    {
+        "continent":"Asia",
+        "country":"UAE",
+        "city":"Dubai",
+        "landmark":"Atlantis The Royal",
+        "architect":"KPF",
+        "latitude":25.1352,
+        "longitude":55.1211,
+        "priority":3
+    },
+    {
+        "continent":"Asia",
+        "country":"UAE",
+        "city":"Dubai",
+        "landmark":"Dubai Opera",
+        "architect":"Janus Rostock",
+        "latitude":25.2205,
+        "longitude":55.2766,
+        "priority":3
+    },
+    {
+        "continent":"Asia",
+        "country":"China",
+        "city":"Hong Kong",
+        "landmark":"HSBC Main Building",
+        "architect":"Norman Foster",
+        "latitude":22.2808,
+        "longitude":114.1595,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"China",
+        "city":"Hong Kong",
+        "landmark":"Bank of China Tower",
+        "architect":"I.M. Pei",
+        "latitude":22.2806,
+        "longitude":114.1622,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"China",
+        "city":"Hong Kong",
+        "landmark":"Jockey Club Innovation",
+        "architect":"Zaha Hadid",
+        "latitude":22.2982,
+        "longitude":114.1747,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"China",
+        "city":"Hong Kong",
+        "landmark":"The Center",
+        "architect":"D. Lau & Ng Chun Man",
+        "latitude":22.2851,
+        "longitude":114.1557,
+        "priority":2
+    },
+    {
+        "continent":"Asia",
+        "country":"China",
+        "city":"Hong Kong",
+        "landmark":"Central Plaza",
+        "architect":"Ng Chun Man",
+        "latitude":22.2814,
+        "longitude":114.1726,
+        "priority":2
+    },
+    {
+        "continent":"Asia",
+        "country":"China",
+        "city":"Hong Kong",
+        "landmark":"Jardine House",
+        "architect":"P&T Architects",
+        "latitude":22.2835,
+        "longitude":114.1595,
+        "priority":2
+    },
+    {
+        "continent":"Asia",
+        "country":"China",
+        "city":"Hong Kong",
+        "landmark":"The Peak Tower",
+        "architect":"Terry Farrell",
+        "latitude":22.2711,
+        "longitude":114.1495,
+        "priority":3
+    },
+    {
+        "continent":"Asia",
+        "country":"China",
+        "city":"Hong Kong",
+        "landmark":"ICC",
+        "architect":"KPF",
+        "latitude":22.3032,
+        "longitude":114.1601,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"China",
+        "city":"Shanghai",
+        "landmark":"Shanghai Tower",
+        "architect":"Gensler",
+        "latitude":31.2334,
+        "longitude":121.5057,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"China",
+        "city":"Shanghai",
+        "landmark":"Jin Mao Tower",
+        "architect":"SOM",
+        "latitude":31.2368,
+        "longitude":121.5034,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"China",
+        "city":"Shanghai",
+        "landmark":"SWFC",
+        "architect":"KPF",
+        "latitude":31.2355,
+        "longitude":121.5045,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"China",
+        "city":"Shanghai",
+        "landmark":"Long Museum West Bund",
+        "architect":"Atelier Deshaus",
+        "latitude":31.1856,
+        "longitude":121.4651,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"China",
+        "city":"Shanghai",
+        "landmark":"Power Station of Art",
+        "architect":"Original Design Studio",
+        "latitude":31.2132,
+        "longitude":121.4851,
+        "priority":2
+    },
+    {
+        "continent":"Asia",
+        "country":"China",
+        "city":"Shanghai",
+        "landmark":"Pudong Dev. Bank",
+        "architect":"Palmer & Turner",
+        "latitude":31.2372,
+        "longitude":121.4907,
+        "priority":2
+    },
+    {
+        "continent":"Asia",
+        "country":"China",
+        "city":"Shanghai",
+        "landmark":"Aurora Plaza",
+        "architect":"Tange Associates",
+        "latitude":31.2357,
+        "longitude":121.5015,
+        "priority":3
+    },
+    {
+        "continent":"Asia",
+        "country":"China",
+        "city":"Shanghai",
+        "landmark":"Bund Finance Centre",
+        "architect":"Foster \/ Heatherwick",
+        "latitude":31.2312,
+        "longitude":121.4912,
+        "priority":2
+    },
+    {
+        "continent":"Asia",
+        "country":"China",
+        "city":"Beijing",
+        "landmark":"CCTV Headquarters",
+        "architect":"Rem Koolhaas (OMA)",
+        "latitude":39.9142,
+        "longitude":116.455,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"China",
+        "city":"Beijing",
+        "landmark":"Bird's Nest Stadium",
+        "architect":"Herzog & de Meuron",
+        "latitude":39.9922,
+        "longitude":116.3963,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"China",
+        "city":"Beijing",
+        "landmark":"Linked Hybrid",
+        "architect":"Steven Holl",
+        "latitude":39.9575,
+        "longitude":116.4258,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"China",
+        "city":"Beijing",
+        "landmark":"National Centre for Performing Arts",
+        "architect":"Paul Andreu",
+        "latitude":39.9056,
+        "longitude":116.3853,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"China",
+        "city":"Beijing",
+        "landmark":"Galaxy SOHO",
+        "architect":"Zaha Hadid",
+        "latitude":39.9238,
+        "longitude":116.4277,
+        "priority":2
+    },
+    {
+        "continent":"Asia",
+        "country":"China",
+        "city":"Beijing",
+        "landmark":"The Forbidden City",
+        "architect":"Various (Historic)",
+        "latitude":39.9163,
+        "longitude":116.3972,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"China",
+        "city":"Beijing",
+        "landmark":"Wangjing SOHO",
+        "architect":"Zaha Hadid",
+        "latitude":39.9933,
+        "longitude":116.4744,
+        "priority":2
+    },
+    {
+        "continent":"Asia",
+        "country":"China",
+        "city":"Beijing",
+        "landmark":"Beijing Daxing Airport",
+        "architect":"Zaha Hadid \/ ADP",
+        "latitude":39.5085,
+        "longitude":116.4116,
+        "priority":1
+    },
+    {
+        "continent":"Asia",
+        "country":"China",
+        "city":"Beijing",
+        "landmark":"Temple of Heaven",
+        "architect":"Various",
+        "latitude":39.8821,
+        "longitude":116.4075,
+        "priority":2
+    },
+    {
+        "continent":"Asia",
+        "country":"China",
+        "city":"Beijing",
+        "landmark":"CCTV Tower (Original)",
+        "architect":"Various",
+        "latitude":39.9135,
+        "longitude":116.315,
+        "priority":3
+    },
+    {
+        "continent":"Africa",
+        "country":"South Africa",
+        "city":"Johannesburg",
+        "landmark":"Constitution Hill",
+        "architect":"OMM Design",
+        "latitude":-26.1915,
+        "longitude":28.0465,
+        "priority":1
+    },
+    {
+        "continent":"Africa",
+        "country":"South Africa",
+        "city":"Johannesburg",
+        "landmark":"44 Stanley",
+        "architect":"Various",
+        "latitude":-26.182,
+        "longitude":28.0285,
+        "priority":2
+    },
+    {
+        "continent":"Africa",
+        "country":"South Africa",
+        "city":"Johannesburg",
+        "landmark":"Ponte City Apartments",
+        "architect":"Manfred Hermer",
+        "latitude":-26.1855,
+        "longitude":28.0558,
+        "priority":2
+    },
+    {
+        "continent":"Africa",
+        "country":"South Africa",
+        "city":"Cape Town",
+        "landmark":"Zeitz MOCAA",
+        "architect":"Heatherwick Studio",
+        "latitude":-34.0163,
+        "longitude":18.4201,
+        "priority":1
+    },
+    {
+        "continent":"Africa",
+        "country":"South Africa",
+        "city":"Cape Town",
+        "landmark":"Norval Foundation",
+        "architect":"DHK Architects",
+        "latitude":-34.041,
+        "longitude":18.452,
+        "priority":2
+    },
+    {
+        "continent":"Africa",
+        "country":"South Africa",
+        "city":"Cape Town",
+        "landmark":"Iziko South African Museum",
+        "architect":"Various",
+        "latitude":-33.929,
+        "longitude":18.4175,
+        "priority":3
+    },
+    {
+        "continent":"Africa",
+        "country":"Morocco",
+        "city":"Marrakesh",
+        "landmark":"Mus\u00e9e Yves Saint Laurent",
+        "architect":"Studio KO",
+        "latitude":31.6372,
+        "longitude":-8.0035,
+        "priority":1
+    },
+    {
+        "continent":"Africa",
+        "country":"Morocco",
+        "city":"Marrakesh",
+        "landmark":"Menara Mall",
+        "architect":"Various",
+        "latitude":31.616,
+        "longitude":-8.019,
+        "priority":2
+    },
+    {
+        "continent":"Africa",
+        "country":"Morocco",
+        "city":"Marrakesh",
+        "landmark":"Le Jardin Secret",
+        "architect":"Various",
+        "latitude":31.6285,
+        "longitude":-7.9885,
+        "priority":2
+    },
+    {
+        "continent":"Africa",
+        "country":"Burkina Faso",
+        "city":"Ouagadougou",
+        "landmark":"Lyc\u00e9e Schorge",
+        "architect":"Francis K\u00e9r\u00e9",
+        "latitude":12.3714,
+        "longitude":-1.5197,
+        "priority":1
+    },
+    {
+        "continent":"Africa",
+        "country":"Burkina Faso",
+        "city":"Ouagadougou",
+        "landmark":"National Museum of Burkina Faso",
+        "architect":"Various",
+        "latitude":12.38,
+        "longitude":-1.53,
+        "priority":2
+    },
+    {
+        "continent":"Africa",
+        "country":"Egypt",
+        "city":"Cairo",
+        "landmark":"Grand Egyptian Museum",
+        "architect":"Heneghan Peng",
+        "latitude":30.0035,
+        "longitude":31.1189,
+        "priority":1
+    },
+    {
+        "continent":"Africa",
+        "country":"Egypt",
+        "city":"Cairo",
+        "landmark":"Cairo Tower",
+        "architect":"Naoum Chebib",
+        "latitude":30.0463,
+        "longitude":31.2241,
+        "priority":2
+    },
+    {
+        "continent":"Africa",
+        "country":"Egypt",
+        "city":"Cairo",
+        "landmark":"Al-Azhar Park",
+        "architect":"Aga Khan Trust",
+        "latitude":30.044,
+        "longitude":31.2619,
+        "priority":2
+    },
+    {
+        "continent":"Africa",
+        "country":"Egypt",
+        "city":"Cairo",
+        "landmark":"The Giza Necropolis",
+        "architect":"Historic",
+        "latitude":29.9792,
+        "longitude":31.1342,
+        "priority":1
+    },
+    {
+        "continent":"Oceania",
+        "country":"Australia",
+        "city":"Sydney",
+        "landmark":"Opera House",
+        "architect":"J\u00f8rn Utzon",
+        "latitude":-33.8568,
+        "longitude":151.2153,
+        "priority":1
+    },
+    {
+        "continent":"Oceania",
+        "country":"Australia",
+        "city":"Sydney",
+        "landmark":"Harbour Bridge",
+        "architect":"Dorman Long",
+        "latitude":-33.8523,
+        "longitude":151.2108,
+        "priority":1
+    },
+    {
+        "continent":"Oceania",
+        "country":"Australia",
+        "city":"Sydney",
+        "landmark":"One Central Park",
+        "architect":"Jean Nouvel",
+        "latitude":-33.885,
+        "longitude":151.2005,
+        "priority":1
+    },
+    {
+        "continent":"Oceania",
+        "country":"Australia",
+        "city":"Sydney",
+        "landmark":"Art Gallery of NSW",
+        "architect":"SANAA",
+        "latitude":-33.8687,
+        "longitude":151.2185,
+        "priority":1
+    },
+    {
+        "continent":"Oceania",
+        "country":"Australia",
+        "city":"Sydney",
+        "landmark":"8 Chifley Square",
+        "architect":"RSHP",
+        "latitude":-33.8647,
+        "longitude":151.2115,
+        "priority":2
+    },
+    {
+        "continent":"Oceania",
+        "country":"Australia",
+        "city":"Sydney",
+        "landmark":"UTS Dr Chau Chak Wing",
+        "architect":"Frank Gehry",
+        "latitude":-33.8837,
+        "longitude":151.2006,
+        "priority":1
+    },
+    {
+        "continent":"Oceania",
+        "country":"Australia",
+        "city":"Sydney",
+        "landmark":"Aurora Place",
+        "architect":"Renzo Piano",
+        "latitude":-33.8622,
+        "longitude":151.2125,
+        "priority":2
+    },
+    {
+        "continent":"Oceania",
+        "country":"Australia",
+        "city":"Sydney",
+        "landmark":"Customs House",
+        "architect":"Various",
+        "latitude":-33.8617,
+        "longitude":151.2105,
+        "priority":3
+    },
+    {
+        "continent":"Oceania",
+        "country":"Australia",
+        "city":"Sydney",
+        "landmark":"Walsh Bay Arts Precinct",
+        "architect":"Tonkin Zulaikha",
+        "latitude":-33.854,
+        "longitude":151.2045,
+        "priority":2
+    },
+    {
+        "continent":"Oceania",
+        "country":"Australia",
+        "city":"Sydney",
+        "landmark":"Barangaroo House",
+        "architect":"Collins & Turner",
+        "latitude":-33.86,
+        "longitude":151.2015,
+        "priority":2
+    },
+    {
+        "continent":"Oceania",
+        "country":"Australia",
+        "city":"Sydney",
+        "landmark":"St Andrew's Cathedral",
+        "architect":"E.T. Blacket",
+        "latitude":-33.8735,
+        "longitude":151.2065,
+        "priority":3
+    },
+    {
+        "continent":"Oceania",
+        "country":"Australia",
+        "city":"Sydney",
+        "landmark":"Quay Quarter Tower",
+        "architect":"3XN",
+        "latitude":-33.8625,
+        "longitude":151.2105,
+        "priority":2
+    },
+    {
+        "continent":"Oceania",
+        "country":"Australia",
+        "city":"Melbourne",
+        "landmark":"Federation Square",
+        "architect":"Lab Architecture",
+        "latitude":-37.8183,
+        "longitude":144.9691,
+        "priority":1
+    },
+    {
+        "continent":"Oceania",
+        "country":"Australia",
+        "city":"Melbourne",
+        "landmark":"Melbourne Museum",
+        "architect":"DCM",
+        "latitude":-37.8037,
+        "longitude":144.9723,
+        "priority":2
+    },
+    {
+        "continent":"Oceania",
+        "country":"Australia",
+        "city":"Melbourne",
+        "landmark":"State Library of Victoria",
+        "architect":"Reed & Barnes",
+        "latitude":-37.8106,
+        "longitude":144.965,
+        "priority":2
+    },
+    {
+        "continent":"Oceania",
+        "country":"Australia",
+        "city":"Melbourne",
+        "landmark":"NGV International",
+        "architect":"Roy Grounds",
+        "latitude":-37.8225,
+        "longitude":144.9692,
+        "priority":1
+    },
+    {
+        "continent":"Oceania",
+        "country":"Australia",
+        "city":"Melbourne",
+        "landmark":"Melbourne Recital Centre",
+        "architect":"Ashton Raggatt",
+        "latitude":-37.8215,
+        "longitude":144.9675,
+        "priority":2
+    },
+    {
+        "continent":"Oceania",
+        "country":"Australia",
+        "city":"Melbourne",
+        "landmark":"Eureka Tower",
+        "architect":"Fender Katsalidis",
+        "latitude":-37.8219,
+        "longitude":144.9635,
+        "priority":1
+    },
+    {
+        "continent":"Oceania",
+        "country":"Australia",
+        "city":"Melbourne",
+        "landmark":"Flinders St Station",
+        "architect":"Various",
+        "latitude":-37.818,
+        "longitude":144.968,
+        "priority":1
+    },
+    {
+        "continent":"Oceania",
+        "country":"Australia",
+        "city":"Melbourne",
+        "landmark":"Royal Exhibition Bldg",
+        "architect":"Joseph Reed",
+        "latitude":-37.8045,
+        "longitude":144.9715,
+        "priority":1
+    },
+    {
+        "continent":"Oceania",
+        "country":"Australia",
+        "city":"Melbourne",
+        "landmark":"QV Melbourne",
+        "architect":"Various",
+        "latitude":-37.8105,
+        "longitude":144.966,
+        "priority":3
+    },
+    {
+        "continent":"Oceania",
+        "country":"Australia",
+        "city":"Melbourne",
+        "landmark":"101 Collins Street",
+        "architect":"Denton Corker",
+        "latitude":-37.816,
+        "longitude":144.9695,
+        "priority":2
+    },
+    {
+        "continent":"Oceania",
+        "country":"Australia",
+        "city":"Melbourne",
+        "landmark":"RMIT Design Hub",
+        "architect":"Sean Godsell",
+        "latitude":-37.8075,
+        "longitude":144.963,
+        "priority":1
+    },
+    {
+        "continent":"Oceania",
+        "country":"Australia",
+        "city":"Melbourne",
+        "landmark":"Melbourne Central",
+        "architect":"Kisho Kurokawa",
+        "latitude":-37.8102,
+        "longitude":144.9635,
+        "priority":2
+    }
+]
