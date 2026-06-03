@@ -46,6 +46,22 @@ the-traveling-architect/
 
 ---
 
+## Contribute to the Journey
+
+The world is littered with architectural gems, and this digital itinerary is currently just scratching the surface. Whether you're a local expert who knows the hidden Brutalist treasure in your neighborhood, or a seasoned traveler who’s spotted an "unmissable" masterpiece that my algorithm hasn't devoured yet, I invite you to join the expedition!
+
+Help me turn this from a curated list into the ultimate global atlas for the restless architect.
+
+**How to participate:**
+
+1. **Star the repo:** If this project has saved you from a poorly planned architectural detour, show some love with a star! 🌟
+2. **Open an Issue:** Did you find a masterpiece that's missing? Or perhaps a "Starchitect" whose entire body of work needs a monographic pack? Tell me about it!
+3. **Submit a Pull Request:** If you're feeling adventurous, fork the repo and add new landmarks, refine route optimizations, or help me expand the dataset. 
+
+Every contribution helps ensure that no more architects wander aimlessly through cities, staring at their phones instead of the facade. Let’s map the world, one coordinate at a time.
+
+---
+
 ## Contact & Portfolio
 
 **Javier Cristóbal Fernández**  
