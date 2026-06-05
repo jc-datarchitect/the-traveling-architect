@@ -40,7 +40,7 @@ the-traveling-architect/
 ├── tta_app.py              # Main Streamlit UI
 ├── tta_engine.py           # Route optimization and filtering logic
 ├── tta_tools.py            # Maintenance and data audit utilities
-├── tta_destinations.json   # Datasets of architectural landmarks
+├── tta_destinations.json   # Dataset of architectural landmarks
 ├── requirements.txt        # Dependency specifications
 └── README.md               # Project documentation
 ```
