@@ -41,7 +41,7 @@ the-traveling-architect/
 ├── tta_engine.py           # Route optimization and filtering logic
 ├── tta_tools.py            # Maintenance and data audit utilities
 ├── tta_destinations.json   # Datasets of architectural landmarks
-└── requirements.txt        # Dependency specifications
+├── requirements.txt        # Dependency specifications
 └── README.md               # Project documentation
 ```
 
