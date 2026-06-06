@@ -46,6 +46,30 @@ the-traveling-architect/
 
 ---
 
+## Local Setup
+
+If you wish to run the application locally on your machine:
+
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/JC-datarchitect/the-traveling-architect.git
+```
+
+2. **Install dependencies:**
+
+```bash
+pip install -r requirements.txt
+```
+
+3. **Run the app:**
+
+```bash
+streamlit run tta_app.py
+```
+
+---
+
 ## Contribute to the Journey
 
 The world is littered with architectural gems, and this digital itinerary is currently just scratching the surface. Whether you're a local expert who knows the hidden Brutalist treasure in your neighborhood, or a seasoned traveler who’s spotted an "unmissable" masterpiece that my algorithm hasn't devoured yet, I invite you to join the expedition!
