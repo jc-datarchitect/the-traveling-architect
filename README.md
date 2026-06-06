@@ -39,7 +39,6 @@ The project follows a modular architecture, designed for scalability and deploym
 the-traveling-architect/
 ├── tta_app.py              # Main Streamlit UI
 ├── tta_engine.py           # Route optimization and filtering logic
-├── tta_tools.py            # Maintenance and data audit utilities
 ├── tta_destinations.json   # Dataset of architectural landmarks
 ├── requirements.txt        # Dependency specifications
 └── README.md               # Project documentation
