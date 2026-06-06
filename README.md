@@ -37,11 +37,14 @@ The project follows a modular architecture, designed for scalability and deploym
 
 ```text
 the-traveling-architect/
+├── .gitignore              # Git configuration
+├── LICENSE                 # License information
+├── CONTRIBUTING.md         # Guidelines for contributors
+├── README.md               # Project documentation
+├── requirements.txt        # Dependency specifications
 ├── tta_app.py              # Main Streamlit UI
 ├── tta_engine.py           # Route optimization and filtering logic
-├── tta_destinations.json   # Dataset of architectural landmarks
-├── requirements.txt        # Dependency specifications
-└── README.md               # Project documentation
+└── tta_destinations.json   # Dataset of architectural landmarks
 ```
 
 ---
